@@ -1,0 +1,501 @@
+startup_name,founded_year,city,industry,has_online_presence,num_founders,num_employees,initial_funding,got_external_funding,startup_stage,founder_age,founder_education,previous_startup_experience,founder_experience_years,market_competition_level,incubator_support,num_direct_competitors,market_need_level,is_successful,years_to_failure,made_profit_in_3y
+Visit Ventures,2019,Port Said,Transportation,1,2.0,44.315929521150466,314.79567308991,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Bosta,2017?,Ismailia,Transportation,1,2.0,308.11522621252584,298.86193560117925,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Port Said,Logistics,1,2.0,43.4201883383696,290.01305651652405,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Paysky,2017,Cairo,Technology,1,1.0,204.37297982851197,307.24674631614573,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Swvl,2017,Damietta,HandCrafts,1,3.0,624.0106475841221,312.9160851802535,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Port Said,AI/NLP,1,2.0,45.888432355785376,301.9970053351829,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,Fintech,1,2.0,42.29320343891358,337.8245133184863,0?,Market,,,,,High,0,Many,Strong,0,,0
+Breadfast,2017,Ismailia,Fintech,1,3.0,159.83739535455186,302.9839235884746,1,Market,,,,,High,1,Many,Medium,1,,1
+Bosta,2017?,Ismailia,Food,1,2.0,321.44229540707977,302.55760757302045,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Cairo,Travel Tech,1,2.0,39.26783859136492,312.62937996920505,0?,Market,,,,,High,0,Many,Medium,0,,0
+MNT-Halan,2017,Suez,Ecommerce,1,3.0,490.21686534205526,297.1047846888556,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Yaoota,2014,Port Said,Transportation,1,2.0,42.60056597540897,2538741.0876888335,1,Market,,,,,Medium,0,Some,Medium,1,,1
+Visit Ventures,2019,Ismailia,HandCrafts,1,2.0,49.37531279284775,289.96646000182443,0?,Market,,,,,High,0,Many,Medium,0,,0
+Swvl,2017,Suez,HandCrafts,1,3.0,620.2103005578248,308.2450272649224,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Suez,Food,1,2.0,46.129900738159044,320.24455682286737,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Damietta,Technology,1,2.0,43.16338808017141,328.1655849754068,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Port Said,HandCrafts,1,2.0,42.18199442191477,288.3437769368324,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Paymob,2015,Cairo,Travel Tech,1,3.0,191.82347263637095,306.04765469380044,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Ismailia,Travel Tech,1,2.0,43.642966389440886,300.7092802881162,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Damietta,Transportation,1,2.0,43.604595094657384,297.69365954356147,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Damietta,Transportation,1,2.0,44.67777117218541,303.1430841338473,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Suez,Ecommerce,1,2.0,44.89084502585553,316.40732995470444,0?,Market?,,,,,Low–Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,Ismailia,AI/NLP,1,2.0,42.740176498523994,304.5465087204311,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Port Said,Transportation,1,2.0,42.9566588988972,285.79462970213484,0?,Market?,,,,,Medium,0,Many,Strong,0,,0
+Bosta,2017?,Cairo,Ecommerce,1,2.0,315.00155976003595,312.44527737666743,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,South Egypt,Technology,1,2.0,46.481362892616794,300.03001194260213,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Alexandria,Fintech,1,2.0,46.33098863642789,294.07094060732743,0?,Market,,,,,High,0,Many,Strong,0,,0
+CardoO,2018,Ismailia,Technology,1,1.0,212.97885923807755,681146.7430857981,1,Market,,,,,Medium,0,Some,Strong,1,,0
+Swvl,2017,Cairo,Transportation,1,3.0,600.697577383815,299.41973008857957,1,Market,,,,,Low–Medium,1,Many,Medium,1,,1
+Visit Ventures,2019,South Egypt,HandCrafts,1,2.0,42.181251977143994,295.04052827311665,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,South Egypt,Logistics,1,2.0,43.81238689933469,290.4908473656999,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Port Said,Ecommerce,1,2.0,43.11917239154813,296.7616600192283,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,Technology,1,2.0,42.49803468109816,300.46967256932953,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Yaoota,2014,Alexandria,AI/NLP,1,2.0,41.76201013125144,2749648.542363834,1,Market,,,,,High,0,Some,Medium,1,,1
+MNT-Halan,2017,Cairo,Food,1,3.0,476.4755444922323,300.9364233901616,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Visit Ventures,2019,South Egypt,Fintech,1,2.0,43.248116038778385,314.37286599456843,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Suez,Food,1,2.0,47.07152205192994,333.4135601398261,0?,Market,,,,,High,0,Many,Strong,0,,0
+Bosta,2017?,Ismailia,Food,1,2.0,307.2550636280624,352.99234171334155,1,Market,,,,,Medium,1,Many,Strong,1,,1
+CardoO,2018,South Egypt,Logistics,1,1.0,202.4480669098878,630785.398108137,1,Market,,,,,High,0,Some,Medium,1,,0
+Bosta,2017?,Suez,Food,1,2.0,321.8997950170312,316.29112820300736,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,South Egypt,AI/NLP,1,2.0,41.0195032964255,289.1501836691506,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Swvl,2017,South Egypt,Food,1,3.0,521.9472506774877,307.8810471922931,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Ismailia,Transportation,1,2.0,40.16628042721644,299.1921597822017,0?,Market?,,,,,High,0,Many,Strong,0,,0
+Yaoota,2014,Suez,Travel Tech,1,2.0,42.27758914191049,2571051.080366831,1,Market,,,,,High,0,Some,Strong,1,,1
+Paymob,2015,Suez,HandCrafts,1,3.0,193.6662137739113,266.1934369170743,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Bosta,2017?,Ismailia,Food,1,2.0,294.6057814765191,310.5373264747907,1,Market,,,,,High,1,Many,Medium,1,,1
+MNT-Halan,2017,Cairo,Ecommerce,1,3.0,506.6758750384723,295.05852341383337,1,Market?,,,,,High,1,Many,Medium,1,,1
+MNT-Halan,2017,Ismailia,Logistics,1,3.0,515.9428218369206,292.59311181623127,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Damietta,Ecommerce,1,2.0,46.43888889922214,320.14388400644174,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+MNT-Halan,2017,Cairo,Fintech,1,3.0,495.7837372650135,292.18719450864694,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+Bosta,2017?,Cairo,AI/NLP,1,2.0,305.0054455226409,317.2866711374622,1,Market,,,,,High,1,Many,Strong,1,,1
+Yaoota,2014,Ismailia,Fintech,1,2.0,36.568569593964824,2602402.461320105,1,Market,,,,,Medium,0,Some,Strong,1,,1
+Breadfast,2017,Alexandria,HandCrafts,1,3.0,153.72509371280054,291.40658957536846,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Visit Ventures,2019,Port Said,Transportation,1,2.0,44.968385326607674,305.0853262909754,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Yaoota,2014,Suez,HandCrafts,1,2.0,39.39461827204177,2719145.9002121272,1,Market,,,,,Low–Medium,0,Some,Strong,1,,1
+Paymob,2015,Cairo,Food,1,3.0,194.8957797587975,295.99300433413003,1,Market,,,,,High,1,Many,Strong,1,,1
+Paysky,2017,South Egypt,Ecommerce,1,1.0,191.86678406829165,310.59616709475466,1,Market,,,,,High,1,Many,Medium,1,,1
+MNT-Halan,2017,Port Said,Transportation,1,3.0,495.2208630960438,289.0787765780087,1,Market,,,,,High,1,Many,Medium,1,,1
+CardoO,2018,Cairo,Logistics,1,1.0,190.7866860348139,682823.6321261432,1,Market,,,,,High,0,Some,Medium,1,,0
+Bosta,2017?,Suez,Transportation,1,2.0,296.24341443525867,305.22798885850057,1,Market,,,,,High,1,Many,Medium,1,,1
+Visit Ventures,2019,Ismailia,Travel Tech,1,2.0,46.9242419927515,330.0311061565621,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Ismailia,HandCrafts,1,2.0,45.750498466172594,296.3282867238963,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Cairo,Transportation,1,2.0,46.3279600998587,265.61701622790724,0?,Market?,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Ismailia,Travel Tech,1,2.0,44.82148579604349,312.5108992071876,0?,Market,,,,,Low–Medium,0,Many,Strong,0,,0
+Bosta,2017?,Alexandria,Fintech,1,2.0,292.1394043033831,320.60879768158935,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Paymob,2015,Cairo,HandCrafts,1,3.0,198.17819163510478,309.7226397532215,1,Market,,,,,High,1,Many,Medium,1,,1
+Visit Ventures,2019,Suez,Fintech,1,2.0,43.74980278782403,271.9274302601618,0?,Market,,,,,High,0,Many,Strong,0,,0
+Paymob,2015,Cairo,Technology,1,3.0,193.52547056036948,310.3829904020101,1,Market,,,,,High,1,Many,Medium,1,,1
+Widebot,2016?,Alexandria,Travel Tech,1,,218.59312690258355,2893416.4022873472,1,Market,,,,,Medium,0,Few,Medium,1,,1
+Visit Ventures,2019,Alexandria,Transportation,1,2.0,42.30166471455359,325.1134239244127,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Cairo,Technology,1,2.0,40.86611599488912,295.3906895615367,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,Ismailia,Food,1,2.0,44.29151753317334,308.7555190403221,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,Technology,1,2.0,41.51438071488467,302.33578964998395,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Damietta,AI/NLP,1,2.0,39.438327730246215,311.1685845740967,0?,Market?,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,South Egypt,HandCrafts,1,2.0,42.794045541898285,285.0091965815213,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Port Said,Food,1,2.0,40.56544770119648,313.09252585908666,0?,Market,,,,,Low–Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,Damietta,Travel Tech,1,2.0,45.183078281247646,318.8877962941305,0?,Market,,,,,Low–Medium,0,Many,Strong,0,,0
+Bosta,2017?,Cairo,Logistics,1,2.0,287.4226042788101,319.4660092131548,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Port Said,Travel Tech,1,2.0,42.4262653263814,318.08618797888215,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,Food,1,2.0,42.201541710859566,284.01094432925106,0?,Market,,,,,High,0,Many,Strong,0,,0
+Paysky,2017,Suez,AI/NLP,1,1.0,194.85008850411526,295.9827154450848,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Bosta,2017?,Suez,Technology,1,2.0,303.1935391795505,307.93563239130793,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Visit Ventures,2019,Cairo,Fintech,1,2.0,43.05932805438348,318.42261326980537,0?,Market,,,,,High,0,Many,Medium,0,,0
+Yaoota,2014,Port Said,Food,1,2.0,41.742612570217375,2652360.9683859036,1,Market,,,,,Medium,0,Some,Medium,1,,1
+Visit Ventures,2019,South Egypt,Logistics,1,2.0,42.53352906277766,317.3165713848282,0?,Market?,,,,,High,0,Many,Strong,0,,0
+Swvl,2017,Cairo,AI/NLP,1,3.0,610.3489465708685,296.5556994584312,1,Market,,,,,High,1,Many,Strong,1,,1
+Yaoota,2014,Suez,Logistics,1,2.0,42.327238122003465,2733727.4281314625,1,Market,,,,,High,0,Some,Strong,1,,1
+Visit Ventures,2019,Suez,HandCrafts,1,2.0,44.42412558342459,297.9492473684533,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,Alexandria,HandCrafts,1,2.0,48.347217136711784,313.35980905962055,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Ismailia,Logistics,1,2.0,42.6496250820179,290.0707149086329,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Suez,Logistics,1,2.0,48.339842785854735,281.3833013412395,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Ismailia,HandCrafts,1,2.0,43.19828267118635,275.9009000485845,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Damietta,Logistics,1,2.0,41.29185827206936,283.7577214741453,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Suez,Ecommerce,1,2.0,45.7287638931366,312.6634835377006,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Suez,Logistics,1,2.0,41.82414255219931,290.1103439753626,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Cairo,HandCrafts,1,2.0,42.365325492206,300.3168645408179,0?,Market,,,,,High,0,Many,Medium,0,,0
+Swvl,2017,South Egypt,Logistics,1,3.0,558.3420277026577,289.3793362635182,1,Market?,,,,,Medium,1,Many,Medium,1,,1
+Bosta,2017?,Port Said,Travel Tech,1,2.0,294.56299386181564,306.76930359796813,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Port Said,Travel Tech,1,2.0,45.62422445199988,314.2644646632102,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+MNT-Halan,2017,Damietta,Food,1,3.0,501.3863448811644,313.5137351265962,1,Market,,,,,High,1,Many,Medium,1,,1
+Widebot,2016?,Damietta,Technology,1,,204.55545897126134,2688434.240489315,1,Market,,,,,High,0,Few,Strong,1,,1
+Visit Ventures,2019,Suez,Ecommerce,1,2.0,44.778095675120774,305.5476893717192,0?,Market,,,,,High,0,Many,Strong,0,,0
+MNT-Halan,2017,South Egypt,Transportation,1,3.0,513.8704232772551,298.63242412994197,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Port Said,HandCrafts,1,2.0,42.91784710132976,328.29844773566447,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,Food,1,2.0,42.38571860465198,293.2787071045563,0?,Market,,,,,High,0,Many,Strong,0,,0
+Bosta,2017?,Alexandria,Ecommerce,1,2.0,315.1276792467949,307.3377063265018,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Visit Ventures,2019,Suez,Logistics,1,2.0,45.73704229419156,318.80006952700853,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Widebot,2016?,Suez,Transportation,1,,208.0729573109993,3040428.457610786,1,Market,,,,,High,0,Few,Strong,1,,1
+Visit Ventures,2019,Damietta,AI/NLP,1,2.0,40.345938187201284,285.8531636139976,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Breadfast,2017,Cairo,HandCrafts,1,3.0,159.37989140031715,313.5686702864982,1,Market?,,,,,Low–Medium,1,Many,Strong,1,,1
+Breadfast,2017,Cairo,Logistics,1,3.0,164.0673560725675,307.7504229399255,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Damietta,Ecommerce,1,2.0,44.98494347218765,297.73785159276963,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,Ismailia,Transportation,1,2.0,43.429043939341895,310.06801831443914,0?,Market?,,,,,Medium,0,Many,Strong,0,,0
+MNT-Halan,2017,Ismailia,Fintech,1,3.0,524.8512650090213,280.40451125926,1,Market,,,,,Low–Medium,1,Many,Medium,1,,1
+Visit Ventures,2019,Suez,AI/NLP,1,2.0,43.7173411227481,335.20213480436945,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,AI/NLP,1,2.0,46.885644832093256,288.44645799358153,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Widebot,2016?,Ismailia,HandCrafts,1,,186.71115994633817,2837805.311001073,1,Market,,,,,Medium,0,Few,Strong,1,,1
+Widebot,2016?,Cairo,Fintech,1,,187.2215220066154,3103268.4241339276,1,Market,,,,,Medium,0,Few,Strong,1,,1
+Breadfast,2017,Alexandria,Technology,1,3.0,162.45591997269514,285.00739723028585,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Paymob,2015,Suez,Logistics,1,3.0,209.1035109424844,303.3579770401701,1,Market,,,,,Medium,1,Many,Strong,1,,1
+CardoO,2018,Cairo,HandCrafts,1,1.0,215.4188460820169,631429.0971517389,1,Market,,,,,High,0,Some,Strong,1,,0
+Yaoota,2014,Port Said,AI/NLP,1,2.0,36.701303677140025,2793459.021631717,1,Market,,,,,High,0,Some,Strong,1,,1
+Visit Ventures,2019,South Egypt,Ecommerce,1,2.0,47.802257548728576,303.10076332708013,0?,Market,,,,,High,0,Many,Strong,0,,0
+Paysky,2017,Ismailia,Transportation,1,1.0,183.78735105922536,323.18808869432024,1,Market,,,,,High,1,Many,Strong,1,,1
+Widebot,2016?,Alexandria,Food,1,,196.11304158060742,2903345.2276840354,1,Market,,,,,High,0,Few,Strong,1,,1
+Widebot,2016?,Ismailia,Fintech,1,,204.15485876735553,3235835.4560078816,1,Market,,,,,High,0,Few,Strong,1,,1
+Visit Ventures,2019,Port Said,Food,1,2.0,40.564149965901144,323.7399305482224,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+CardoO,2018,Damietta,Technology,1,1.0,190.62502460880765,660654.5622477075,1,Market,,,,,Medium,0,Some,Strong,1,,0
+Breadfast,2017,Alexandria,Fintech,1,3.0,152.01522947288214,309.924880659376,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Suez,HandCrafts,1,2.0,42.00872174263384,294.69542520415905,0?,Market,,,,,Low–Medium,0,Many,Strong,0,,0
+Paymob,2015,Cairo,Logistics,1,3.0,216.8166127020319,314.1099323323068,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+Breadfast,2017,Suez,Fintech,1,3.0,144.75667319467297,309.62185518265915,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Cairo,Logistics,1,2.0,41.280503787240946,312.6446431755607,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Suez,Food,1,2.0,43.94074008921399,262.78657717245966,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Paysky,2017,Damietta,HandCrafts,1,1.0,192.78993007928509,333.4284242654502,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Bosta,2017?,Cairo,Technology,1,2.0,306.8849094253557,287.1937232582682,1,Market,,,,,High,1,Many,Strong,1,,1
+Yaoota,2014,South Egypt,HandCrafts,1,2.0,39.493153326424164,2494507.478230472,1,Market,,,,,High,0,Some,Medium,1,,1
+MNT-Halan,2017,South Egypt,AI/NLP,1,3.0,543.320961312265,323.7421100775731,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+MNT-Halan,2017,Alexandria,Logistics,1,3.0,506.251560438566,290.88021176278386,1,Market,,,,,High,1,Many,Medium,1,,1
+Visit Ventures,2019,Port Said,Ecommerce,1,2.0,44.2204976540195,321.6782610476146,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Bosta,2017?,Ismailia,Technology,1,2.0,303.1479838849817,302.34583684213067,1,Market,,,,,Medium,1,Many,Medium,1,,1
+CardoO,2018,Suez,Travel Tech,1,1.0,208.739646309325,624963.7968740253,1,Market,,,,,High,0,Some,Strong,1,,0
+Visit Ventures,2019,Port Said,AI/NLP,1,2.0,45.581481573695974,316.6823022315669,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Swvl,2017,Ismailia,Technology,1,3.0,629.8346860554581,307.1959315758356,1,Market?,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Suez,Travel Tech,1,2.0,42.751699143121215,307.8888186699035,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Alexandria,Transportation,1,2.0,41.648657182128886,309.36234607448665,0?,Market,,,,,Low–Medium,0,Many,Strong,0,,0
+MNT-Halan,2017,Alexandria,AI/NLP,1,3.0,490.7612692046353,304.6203670583284,1,Market,,,,,Medium,1,Many,Medium,1,,1
+CardoO,2018,Ismailia,Food,1,1.0,198.76456459904105,709420.9271567682,1,Market,,,,,Medium,0,Some,Strong,1,,0
+Visit Ventures,2019,Alexandria,Fintech,1,2.0,46.457449450929026,312.1828196640132,0?,Market,,,,,Low–Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Damietta,Technology,1,2.0,40.864683624864035,315.8944177158146,0?,Market,,,,,High,0,Many,Medium,0,,0
+MNT-Halan,2017,Suez,Technology,1,3.0,508.0659833112064,313.9610941444321,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Breadfast,2017,South Egypt,Transportation,1,3.0,149.19962656752358,318.2803867617977,1,Market,,,,,High,1,Many,Strong,1,,1
+Paymob,2015,Ismailia,AI/NLP,1,3.0,193.00882907997504,308.3267962799567,1,Market,,,,,High,1,Many,Strong,1,,1
+MNT-Halan,2017,South Egypt,Technology,1,3.0,461.3624121968676,290.0160618962415,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,South Egypt,Food,1,2.0,43.38384873171996,297.1556077765542,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Damietta,AI/NLP,1,2.0,41.22704431270509,324.6116577656994,0?,Market?,,,,,High,0,Many,Strong,0,,0
+MNT-Halan,2017,Alexandria,AI/NLP,1,3.0,518.7195149384485,299.0495857213575,1,Market,,,,,High,1,Many,Medium,1,,1
+CardoO,2018,Ismailia,AI/NLP,1,1.0,197.62023342867704,670329.9590802066,1,Market?,,,,,High,0,Some,Strong,1,,0
+Visit Ventures,2019,Cairo,Technology,1,2.0,41.69378517532276,297.07331356076077,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Bosta,2017?,South Egypt,HandCrafts,1,2.0,281.71974683479743,339.1606054661843,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+Swvl,2017,Suez,Fintech,1,3.0,647.4371371500258,315.0549129866932,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Alexandria,Travel Tech,1,2.0,41.7092132039292,332.2605187296304,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Port Said,Transportation,1,2.0,42.247203646853826,304.12091334073295,0?,Market,,,,,High,0,Many,Medium,0,,0
+Paymob,2015,Cairo,Food,1,3.0,202.09748041228454,316.95632806381764,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Port Said,AI/NLP,1,2.0,43.7255560559189,304.8973134429415,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Cairo,HandCrafts,1,2.0,42.55923422011268,300.9179157211144,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+MNT-Halan,2017,South Egypt,Travel Tech,1,3.0,508.74248764590055,256.82590480900643,1,Market,,,,,Medium,1,Many,Strong,1,,1
+MNT-Halan,2017,Alexandria,Fintech,1,3.0,507.8013171824184,297.936385050487,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Ismailia,Food,1,2.0,41.86792617627385,318.7869924663497,0?,Market,,,,,High,0,Many,Medium,0,,0
+Swvl,2017,Cairo,Travel Tech,1,3.0,582.2396110628878,282.69872930640236,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+Paymob,2015,Damietta,AI/NLP,1,3.0,185.15805554346758,311.95168715968924,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Paysky,2017,Alexandria,Ecommerce,1,1.0,220.77631668623908,277.8666705165364,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Port Said,Transportation,1,2.0,39.714827568094535,310.08326874576517,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Breadfast,2017,South Egypt,Transportation,1,3.0,146.37168453979322,310.0973668642379,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Breadfast,2017,Damietta,HandCrafts,1,3.0,144.03854393317803,293.9038568444294,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Yaoota,2014,Port Said,AI/NLP,1,2.0,40.96235631718703,2520929.870242263,1,Market,,,,,High,0,Some,Medium,1,,1
+Visit Ventures,2019,Suez,Ecommerce,1,2.0,44.301715284263025,309.96295285827256,0?,Market,,,,,High,0,Many,Strong,0,,0
+Yaoota,2014,South Egypt,Fintech,1,2.0,41.93089094079237,2756907.5827460582,1,Market,,,,,High,0,Some,Strong,1,,1
+Paysky,2017,Alexandria,Ecommerce,1,1.0,199.66275113614225,302.42498900123917,1,Market,,,,,High,1,Many,Medium,1,,1
+Visit Ventures,2019,Cairo,HandCrafts,1,2.0,50.2903640644295,296.02444218407476,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Ismailia,Technology,1,2.0,43.74535409046549,272.2065751433425,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Yaoota,2014,Suez,Ecommerce,1,2.0,38.47109236198992,2538726.9345785687,1,Market,,,,,Medium,0,Some,Strong,1,,1
+Visit Ventures,2019,Port Said,Transportation,1,2.0,43.86051093699262,292.09070142344126,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,Damietta,Fintech,1,2.0,42.51981963748969,300.4132795090383,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,AI/NLP,1,2.0,41.81203266130814,318.1989557779847,0?,Market,,,,,High,0,Many,Strong,0,,0
+Paysky,2017,Cairo,Food,1,1.0,204.06098183045907,312.68714216911775,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Cairo,Logistics,1,2.0,44.31593540329333,308.0943799962502,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Bosta,2017?,Suez,Ecommerce,1,2.0,288.33834869367325,291.33622912231897,1,Market,,,,,High,1,Many,Strong,1,,1
+CardoO,2018,Suez,Travel Tech,1,1.0,193.54904179867242,631546.117591025,1,Market,,,,,Medium,0,Some,Strong,1,,0
+Yaoota,2014,South Egypt,Ecommerce,1,2.0,39.36392285180622,2693865.5644526263,1,Market?,,,,,Medium,0,Some,Strong,1,,1
+Visit Ventures,2019,Suez,Food,1,2.0,45.18199058040373,294.42210895626926,0?,Market?,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,South Egypt,Food,1,2.0,45.040151634837606,294.80844860173823,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Port Said,Logistics,1,2.0,45.55732989121039,313.9387299761078,0?,Market?,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Port Said,HandCrafts,1,2.0,43.33680030566807,295.91977947842867,0?,Market,,,,,High,0,Many,Strong,0,,0
+Swvl,2017,Alexandria,AI/NLP,1,3.0,617.0261203061167,304.5812613930785,1,Market,,,,,High,1,Many,Strong,1,,1
+Widebot,2016?,Ismailia,Technology,1,,181.520145938772,3212868.7990319678,1,Market,,,,,Medium,0,Few,Strong,1,,1
+Paysky,2017,Ismailia,Ecommerce,1,1.0,206.39934309047067,313.8567563493657,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Swvl,2017,Damietta,Technology,1,3.0,580.7990886524883,319.0560282357557,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Paysky,2017,Alexandria,Travel Tech,1,1.0,203.75109673364045,324.17232735117,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Ismailia,AI/NLP,1,2.0,43.86129724823162,312.59303541160165,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Suez,Food,1,2.0,43.465634450452605,310.68964429776776,0?,Market,,,,,High,0,Many,Strong,0,,0
+Bosta,2017?,Port Said,Ecommerce,1,2.0,297.155764946818,312.28634334289984,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Widebot,2016?,Port Said,AI/NLP,1,,196.1707359069759,2991623.165798069,1,Market,,,,,Medium,0,Few,Strong,1,,1
+Paysky,2017,South Egypt,Food,1,1.0,210.55323303639608,287.83881756770484,1,Market,,,,,High,1,Many,Medium,1,,1
+Paysky,2017,Port Said,Ecommerce,1,1.0,198.2174022841344,299.35399053422884,1,Market?,,,,,High,1,Many,Strong,1,,1
+CardoO,2018,Cairo,Fintech,1,1.0,211.6455094459221,703714.7641331848,1,Market,,,,,High,0,Some,Strong,1,,0
+Widebot,2016?,Suez,Logistics,1,,207.65881097815603,3182472.9799440326,1,Market,,,,,Medium,0,Few,Strong,1,,1
+Bosta,2017?,Cairo,Technology,1,2.0,314.61510521459746,277.0704323929439,1,Market,,,,,High,1,Many,Medium,1,,1
+Visit Ventures,2019,Damietta,Ecommerce,1,2.0,41.14393888583352,292.5093130095381,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,HandCrafts,1,2.0,45.5564680895681,299.8845192278624,0?,Market?,,,,,Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,Port Said,Logistics,1,2.0,44.834085839856634,274.381144799893,0?,Market,,,,,High,0,Many,Strong,0,,0
+Breadfast,2017,Damietta,Travel Tech,1,3.0,146.7315289720057,313.75151410945756,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Alexandria,Transportation,1,2.0,43.31787252166746,293.8395279470198,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,South Egypt,HandCrafts,1,2.0,46.856243307971866,316.32458755797643,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,Port Said,Travel Tech,1,2.0,46.16356062347919,287.2584969405821,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Port Said,Logistics,1,2.0,45.66520919878773,290.1681155992872,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Cairo,Transportation,1,2.0,48.550434506202336,292.51513415060225,0?,Market,,,,,High,0,Many,Strong,0,,0
+Widebot,2016?,Port Said,Transportation,1,,179.82046193152019,2992596.476049436,1,Market,,,,,Low–Medium,0,Few,Strong,1,,1
+Visit Ventures,2019,South Egypt,Food,1,2.0,42.99171177999677,306.2157436614769,0?,Market,,,,,High,0,Many,Medium,0,,0
+Widebot,2016?,Port Said,AI/NLP,1,,203.14309993362136,2973367.3968614745,1,Market,,,,,High,0,Few,Medium,1,,1
+Visit Ventures,2019,Suez,Transportation,1,2.0,43.70781136873177,311.9500667871423,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Damietta,AI/NLP,1,2.0,44.69993195391065,307.85679074445466,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Paymob,2015,Suez,Travel Tech,1,3.0,211.66290188085378,288.9032414107395,1,Market,,,,,High,1,Many,Strong,1,,1
+CardoO,2018,Ismailia,Fintech,1,1.0,204.27121249140527,657611.8965240412,1,Market,,,,,High,0,Some,Strong,1,,0
+Breadfast,2017,Damietta,AI/NLP,1,3.0,148.67893320362566,302.60381178643775,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Port Said,Ecommerce,1,2.0,43.668151008208966,320.8055247446179,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Widebot,2016?,Damietta,Logistics,1,,195.39499395649477,2820800.4122825894,1,Market?,,,,,High,0,Few,Strong,1,,1
+Visit Ventures,2019,Damietta,Travel Tech,1,2.0,42.090684196299826,300.0749524141684,0?,Market?,,,,,Low–Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,Alexandria,Technology,1,2.0,42.919178658950784,277.37782016294335,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Bosta,2017?,Cairo,Technology,1,2.0,315.46149201952323,315.03775199036073,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Swvl,2017,South Egypt,HandCrafts,1,3.0,619.6654272784666,293.10024620945023,1,Market,,,,,High,1,Many,Medium,1,,1
+Swvl,2017,Cairo,Logistics,1,3.0,546.92919586829,296.91971793497083,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Cairo,Logistics,1,2.0,42.83534177052543,298.2385629494337,0?,Market,,,,,High,0,Many,Strong,0,,0
+MNT-Halan,2017,Alexandria,Ecommerce,1,3.0,467.58458999908726,298.21908271371046,1,Market,,,,,High,1,Many,Medium,1,,1
+Visit Ventures,2019,Cairo,Food,1,2.0,47.24829546554603,310.14305871936415,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,Fintech,1,2.0,42.001881546978666,305.4275755022138,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Damietta,Logistics,1,2.0,42.15106798956047,323.9041219180093,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Paysky,2017,South Egypt,Ecommerce,1,1.0,190.75979095391756,302.55100466070576,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Paysky,2017,Cairo,Logistics,1,1.0,193.06244364302754,303.19905726276465,1,Market,,,,,High,1,Many,Medium,1,,1
+Yaoota,2014,Ismailia,Transportation,1,2.0,38.87978751860806,2657769.733107371,1,Market,,,,,Low–Medium,0,Some,Medium,1,,1
+Visit Ventures,2019,Port Said,Fintech,1,2.0,45.04568264648178,296.5476620707791,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Yaoota,2014,Alexandria,Travel Tech,1,2.0,38.44237423640992,2582256.1688484517,1,Market,,,,,High,0,Some,Strong,1,,1
+Visit Ventures,2019,Cairo,Transportation,1,2.0,45.35976240919242,289.2324064977574,0?,Market?,,,,,Medium,0,Many,Medium,0,,0
+MNT-Halan,2017,Suez,Ecommerce,1,3.0,536.2975008334739,315.25909846660625,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Ismailia,AI/NLP,1,2.0,43.49533123461083,306.85838866581486,0?,Market,,,,,High,0,Many,Medium,0,,0
+Swvl,2017,Suez,Logistics,1,3.0,660.9117934432192,317.2214931717198,1,Market,,,,,High,1,Many,Strong,1,,1
+Bosta,2017?,Cairo,Fintech,1,2.0,302.3622262169897,302.82388995660386,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+Paymob,2015,South Egypt,Transportation,1,3.0,197.9450218301531,287.9118092191451,1,Market,,,,,High,1,Many,Medium,1,,1
+Visit Ventures,2019,Damietta,Technology,1,2.0,41.20788876985567,324.2092997292123,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Paysky,2017,South Egypt,Ecommerce,1,1.0,200.19288459034516,291.5637392767151,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Visit Ventures,2019,South Egypt,Fintech,1,2.0,44.03137229609138,298.55459935519605,0?,Market?,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Port Said,Food,1,2.0,43.89149029624286,309.87603305378974,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Port Said,HandCrafts,1,2.0,44.66424868471761,300.6087398166363,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+CardoO,2018,Ismailia,Travel Tech,1,1.0,202.43981511460117,627898.386161838,1,Market,,,,,High,0,Some,Medium,1,,0
+Visit Ventures,2019,Damietta,Travel Tech,1,2.0,44.701189637551835,259.30743095602764,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Suez,Transportation,1,2.0,46.712709579388466,277.96382597827557,0?,Market,,,,,Low–Medium,0,Many,Strong,0,,0
+Paysky,2017,Suez,HandCrafts,1,1.0,199.93952460571083,284.58535986315565,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Alexandria,Food,1,2.0,48.13079091957334,332.9846171567586,0?,Market,,,,,High,0,Many,Strong,0,,0
+Paysky,2017,Damietta,Technology,1,1.0,220.6350744010976,296.16638100501905,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Suez,Logistics,1,2.0,45.237792459086634,318.5143333069646,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,Damietta,Transportation,1,2.0,44.86478431991577,302.62079659199793,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Breadfast,2017,Cairo,HandCrafts,1,3.0,140.79215615428765,305.79862234034385,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Suez,Logistics,1,2.0,48.73674089091694,294.434070409389,0?,Market?,,,,,Low–Medium,0,Many,Strong,0,,0
+Swvl,2017,Port Said,Transportation,1,3.0,592.1665772198702,287.1721572077545,1,Market?,,,,,High,1,Many,Medium,1,,1
+Paysky,2017,South Egypt,Logistics,1,1.0,190.16531012887828,310.5135038213232,1,Market,,,,,High,1,Many,Strong,1,,1
+Widebot,2016?,Damietta,Logistics,1,,190.03092507277657,3025939.991935762,1,Market,,,,,High,0,Few,Strong,1,,1
+Visit Ventures,2019,South Egypt,Logistics,1,2.0,49.53274184720697,274.64790383837254,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Swvl,2017,Cairo,Fintech,1,3.0,589.9603341770915,297.73861585192935,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,South Egypt,Ecommerce,1,2.0,44.866292141663585,304.5514705047821,0?,Market,,,,,High,0,Many,Medium,0,,0
+Breadfast,2017,Ismailia,Ecommerce,1,3.0,149.8680956321496,295.770867943317,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+Yaoota,2014,Alexandria,AI/NLP,1,2.0,39.85025098517199,2735737.1593067436,1,Market,,,,,High,0,Some,Strong,1,,1
+CardoO,2018,Cairo,Transportation,1,1.0,198.02549632054834,610706.5044099555,1,Market,,,,,High,0,Some,Strong,1,,0
+Widebot,2016?,Alexandria,Logistics,1,,228.81827227939243,2777696.8773363717,1,Market,,,,,High,0,Few,Strong,1,,1
+Visit Ventures,2019,South Egypt,Food,1,2.0,45.881499137091076,307.9189890733737,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Alexandria,HandCrafts,1,2.0,42.98923780100113,296.72955703672375,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Cairo,Transportation,1,2.0,43.51541399851946,297.87408980211,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,Ecommerce,1,2.0,43.09917315732526,298.8241935005447,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,Suez,HandCrafts,1,2.0,46.62970955893476,318.2931559023801,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,Food,1,2.0,47.80735032186911,295.6086062009191,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Breadfast,2017,Port Said,Ecommerce,1,3.0,145.91352360039605,284.3367742280403,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Visit Ventures,2019,South Egypt,Food,1,2.0,43.63896762118295,306.0235640329045,0?,Market,,,,,High,0,Many,Medium,0,,0
+CardoO,2018,Port Said,AI/NLP,1,1.0,212.24271884685294,640721.7476330334,1,Market,,,,,High,0,Some,Strong,1,,0
+Visit Ventures,2019,Port Said,Travel Tech,1,2.0,45.34759347024426,286.95337608473517,0?,Market,,,,,High,0,Many,Medium,0,,0
+CardoO,2018,Alexandria,Technology,1,1.0,206.9033379702044,611056.804711983,1,Market,,,,,Medium,0,Some,Medium,1,,0
+Breadfast,2017,Damietta,Travel Tech,1,3.0,166.06600705478976,313.5286909630286,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Alexandria,Fintech,1,2.0,44.74652734372325,277.0723969651328,0?,Market,,,,,Low–Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,Suez,Food,1,2.0,47.35165427444955,305.5421392007235,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Suez,Travel Tech,1,2.0,41.46033124023235,316.7520863305432,0?,Market?,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Suez,Logistics,1,2.0,43.85009994578402,302.6546362412477,0?,Market?,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,Travel Tech,1,2.0,40.691015348802196,306.20995588025403,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Damietta,Logistics,1,2.0,41.30375459231316,308.22531434302596,0?,Market?,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Ismailia,Travel Tech,1,2.0,43.73271087088394,296.21761075740386,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,AI/NLP,1,2.0,42.914605516913454,283.0281367672579,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Damietta,Transportation,1,2.0,45.10045964801981,296.0323342246294,0?,Market,,,,,High,0,Many,Strong,0,,0
+Breadfast,2017,Suez,Fintech,1,3.0,149.20280111274957,294.6496287827551,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+Yaoota,2014,South Egypt,Ecommerce,1,2.0,36.93342379538298,2856648.8038806226,1,Market,,,,,Low–Medium,0,Some,Strong,1,,1
+Visit Ventures,2019,Damietta,Travel Tech,1,2.0,42.8438515571368,289.1745440349098,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,South Egypt,AI/NLP,1,2.0,48.03546789302387,301.32073739836113,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,Transportation,1,2.0,45.20997624145019,286.79570173240126,0?,Market?,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Damietta,Travel Tech,1,2.0,44.341066327316426,301.68267307923793,0?,Market?,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Suez,Food,1,2.0,43.04377930705006,317.9303235855243,0?,Market,,,,,High,0,Many,Strong,0,,0
+Widebot,2016?,Alexandria,Technology,1,,204.38732229781897,3148969.4132346804,1,Market,,,,,Medium,0,Few,Strong,1,,1
+Visit Ventures,2019,South Egypt,HandCrafts,1,2.0,43.9266681565776,327.8992738326611,0?,Market,,,,,High,0,Many,Strong,0,,0
+Paysky,2017,Ismailia,Fintech,1,1.0,213.62413117244432,297.33695342536794,1,Market,,,,,High,1,Many,Medium,1,,1
+Breadfast,2017,Ismailia,Transportation,1,3.0,154.10034681693662,286.1194039101591,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+CardoO,2018,Cairo,Food,1,1.0,204.11697335740521,704951.3255193454,1,Market,,,,,Medium,0,Some,Strong,1,,0
+Visit Ventures,2019,South Egypt,Logistics,1,2.0,44.85600324380533,305.7491455256331,0?,Market,,,,,High,0,Many,Strong,0,,0
+Widebot,2016?,South Egypt,HandCrafts,1,,200.56953570598787,2931890.633797594,1,Market,,,,,High,0,Few,Medium,1,,1
+Breadfast,2017,Alexandria,Technology,1,3.0,144.08716775484368,316.5240069974984,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Breadfast,2017,Cairo,Ecommerce,1,3.0,134.61859218952634,290.0543915581808,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Ismailia,Technology,1,2.0,43.406823698209095,298.47586572218916,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Widebot,2016?,Cairo,AI/NLP,1,,209.47119189906203,2936488.742118416,1,Market,,,,,High,0,Few,Strong,1,,1
+Visit Ventures,2019,Port Said,Food,1,2.0,40.88619393469287,303.9925394567099,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Damietta,Ecommerce,1,2.0,43.273494924509286,325.96736227415704,0?,Market,,,,,Low–Medium,0,Many,Strong,0,,0
+Breadfast,2017,Cairo,Food,1,3.0,142.93025530242863,312.0592183669467,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Alexandria,Transportation,1,2.0,43.335786774473505,311.70042543744114,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Port Said,HandCrafts,1,2.0,45.02084823843598,278.8247585391471,0?,Market,,,,,High,0,Many,Medium,0,,0
+Swvl,2017,Ismailia,Food,1,3.0,605.7839651466054,304.97740765277683,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,South Egypt,Food,1,2.0,39.4174526354765,318.18892623464615,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Port Said,Logistics,1,2.0,43.349195927677066,315.3122604281648,0?,Market?,,,,,High,0,Many,Strong,0,,0
+Breadfast,2017,Port Said,Fintech,1,3.0,148.1839137535258,293.24972591764157,1,Market,,,,,High,1,Many,Medium,1,,1
+Visit Ventures,2019,Port Said,Food,1,2.0,45.950625376985336,322.2504650166131,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Paymob,2015,Port Said,Technology,1,3.0,201.20691593998612,308.91871532499215,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Damietta,Food,1,2.0,43.147315589643334,303.6034312778238,0?,Market,,,,,High,0,Many,Strong,0,,0
+Bosta,2017?,Damietta,Fintech,1,2.0,316.4236032152782,329.94534705022227,1,Market?,,,,,High,1,Many,Medium,1,,1
+Visit Ventures,2019,South Egypt,Transportation,1,2.0,42.56738362016729,276.6741366984168,0?,Market,,,,,High,0,Many,Strong,0,,0
+Swvl,2017,Port Said,Travel Tech,1,3.0,606.1041210355529,307.227694616819,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Widebot,2016?,Port Said,HandCrafts,1,,201.88914128651723,3149075.0598907936,1,Market,,,,,High,0,Few,Strong,1,,1
+Yaoota,2014,Ismailia,AI/NLP,1,2.0,39.72803046271266,2584322.04184033,1,Market,,,,,High,0,Some,Strong,1,,1
+Visit Ventures,2019,Damietta,HandCrafts,1,2.0,39.69888514810536,284.64818917363016,0?,Market,,,,,High,0,Many,Strong,0,,0
+Paysky,2017,Ismailia,Ecommerce,1,1.0,195.7253405231615,337.84666818566694,1,Market,,,,,High,1,Many,Medium,1,,1
+MNT-Halan,2017,South Egypt,Logistics,1,3.0,487.2161440160205,309.5671525105724,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Paymob,2015,Port Said,AI/NLP,1,3.0,214.53351620383864,298.80580463435376,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Paymob,2015,Ismailia,Fintech,1,3.0,205.9497740814911,302.51761625968726,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+Yaoota,2014,Suez,Technology,1,2.0,39.826990984723125,2607968.858106136,1,Market,,,,,Medium,0,Some,Strong,1,,1
+Paysky,2017,Damietta,HandCrafts,1,1.0,207.74941141294647,310.8453843918013,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Ismailia,Ecommerce,1,2.0,42.152238124726864,283.92399947174766,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,South Egypt,HandCrafts,1,2.0,46.966291623817455,306.6400340303455,0?,Market,,,,,High,0,Many,Strong,0,,0
+CardoO,2018,Cairo,Technology,1,1.0,189.32601618014448,709474.1291137869,1,Market,,,,,Medium,0,Some,Strong,1,,0
+Swvl,2017,Ismailia,AI/NLP,1,3.0,624.7961415631528,310.6313565818766,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+Paymob,2015,Damietta,AI/NLP,1,3.0,207.8671513488228,291.6600163971284,1,Market?,,,,,High,1,Many,Strong,1,,1
+Widebot,2016?,South Egypt,Logistics,1,,203.12248188539095,2930362.8034708346,1,Market,,,,,High,0,Few,Strong,1,,1
+Visit Ventures,2019,Ismailia,Fintech,1,2.0,45.36867693213719,292.27884439829813,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Port Said,Technology,1,2.0,44.20342741711393,299.273000969101,0?,Market,,,,,High,0,Many,Strong,0,,0
+Yaoota,2014,Alexandria,Logistics,1,2.0,37.97447309181518,2923522.230445162,1,Market,,,,,High,0,Some,Medium,1,,1
+Paymob,2015,Ismailia,Fintech,1,3.0,180.16613519221642,298.7870020706829,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Port Said,Travel Tech,1,2.0,43.01699609237203,321.06707454985263,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Alexandria,Logistics,1,2.0,42.38053101843562,303.21252687190037,0?,Market,,,,,Low–Medium,0,Many,Strong,0,,0
+CardoO,2018,Damietta,Ecommerce,1,1.0,212.03380911582497,585532.2948230855,1,Market,,,,,Medium,0,Some,Medium,1,,0
+Visit Ventures,2019,South Egypt,Logistics,1,2.0,42.33996051685583,331.2562897764683,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Damietta,AI/NLP,1,2.0,45.36491558781951,328.01882943716004,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,Cairo,Technology,1,2.0,48.97069300917338,295.83705122012805,0?,Market,,,,,High,0,Many,Medium,0,,0
+MNT-Halan,2017,Alexandria,AI/NLP,1,3.0,508.6490624985861,329.50639942677526,1,Market,,,,,High,1,Many,Medium,1,,1
+Visit Ventures,2019,Ismailia,Ecommerce,1,2.0,40.223164114741905,299.350740782866,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Ismailia,Travel Tech,1,2.0,44.076807908538775,317.38405409305807,0?,Market,,,,,High,0,Many,Strong,0,,0
+Swvl,2017,Damietta,Technology,1,3.0,642.3499808234906,322.2444418004663,1,Market?,,,,,Medium,1,Many,Strong,1,,1
+Widebot,2016?,Suez,Transportation,1,,205.18109689958712,2658838.672733565,1,Market,,,,,Medium,0,Few,Strong,1,,1
+Visit Ventures,2019,Port Said,Fintech,1,2.0,42.77254022300395,280.3337437243178,0?,Market,,,,,High,0,Many,Medium,0,,0
+CardoO,2018,Damietta,Logistics,1,1.0,180.35187105092868,688120.5165660062,1,Market,,,,,Medium,0,Some,Medium,1,,0
+Yaoota,2014,Alexandria,Ecommerce,1,2.0,40.998285237449714,2746014.682248305,1,Market,,,,,High,0,Some,Strong,1,,1
+Swvl,2017,Cairo,Food,1,3.0,635.2928704697263,294.0861249126753,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Visit Ventures,2019,South Egypt,Ecommerce,1,2.0,47.2965391235431,309.05558213160776,0?,Market,,,,,High,0,Many,Medium,0,,0
+CardoO,2018,Alexandria,AI/NLP,1,1.0,199.01921643212071,702032.2963953234,1,Market,,,,,High,0,Some,Strong,1,,0
+Bosta,2017?,Ismailia,Logistics,1,2.0,297.46013800820083,292.0910712598995,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+Paymob,2015,Cairo,Transportation,1,3.0,201.30604914583316,295.57719742912076,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Paymob,2015,Port Said,Ecommerce,1,3.0,205.29486457898898,298.33561907902185,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Port Said,AI/NLP,1,2.0,44.829667199158784,267.7060915270176,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,South Egypt,HandCrafts,1,2.0,43.58667995948311,309.8496713797769,0?,Market,,,,,High,0,Many,Medium,0,,0
+CardoO,2018,Ismailia,Ecommerce,1,1.0,197.20838270004842,633099.2165126855,1,Market,,,,,High,0,Some,Medium,1,,0
+Visit Ventures,2019,Cairo,Ecommerce,1,2.0,45.872584902754966,275.8221950664961,0?,Market,,,,,High,0,Many,Strong,0,,0
+MNT-Halan,2017,Alexandria,Logistics,1,3.0,508.46423779489135,299.9803780430701,1,Market,,,,,High,1,Many,Medium,1,,1
+Visit Ventures,2019,South Egypt,Travel Tech,1,2.0,39.30012988337215,311.1722117134175,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Widebot,2016?,South Egypt,Fintech,1,,198.2141501050004,2940377.456770519,1,Market?,,,,,High,0,Few,Strong,1,,1
+Visit Ventures,2019,Cairo,Fintech,1,2.0,47.596312813027254,298.92070645007334,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,Fintech,1,2.0,43.06853325088218,317.25160010187506,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Paysky,2017,Ismailia,Transportation,1,1.0,210.21221530239256,283.1133844283031,1,Market?,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Port Said,Technology,1,2.0,45.615265504531415,318.9111625306079,0?,Market,,,,,Low–Medium,0,Many,Medium,0,,0
+Breadfast,2017,Ismailia,AI/NLP,1,3.0,140.4581912343098,296.1885600955431,1,Market,,,,,High,1,Many,Strong,1,,1
+Bosta,2017?,Suez,AI/NLP,1,2.0,306.08215484181,299.65053636588965,1,Market,,,,,High,1,Many,Medium,1,,1
+Breadfast,2017,Alexandria,AI/NLP,1,3.0,138.77568779062784,320.03578746179625,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Breadfast,2017,Suez,Fintech,1,3.0,139.2145831265268,291.1743757372762,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Alexandria,Technology,1,2.0,46.963402786794376,282.47389649622266,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+MNT-Halan,2017,Ismailia,Fintech,1,3.0,458.01837781631826,290.8625430123322,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Visit Ventures,2019,South Egypt,HandCrafts,1,2.0,42.521155662588704,295.205077422354,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Port Said,Travel Tech,1,2.0,43.179705676008346,290.4055175073522,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Bosta,2017?,Port Said,Fintech,1,2.0,318.8070269078149,298.35709809075416,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Cairo,Transportation,1,2.0,43.31770572369412,313.441842767296,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+MNT-Halan,2017,South Egypt,Food,1,3.0,481.21568345392205,301.03370044637586,1,Market,,,,,High,1,Many,Medium,1,,1
+Paysky,2017,South Egypt,Transportation,1,1.0,204.001922300225,292.06488183624634,1,Market,,,,,High,1,Many,Strong,1,,1
+Paymob,2015,Cairo,Logistics,1,3.0,196.51681232581046,305.58702458298086,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Suez,Food,1,2.0,44.083338929106446,278.3593268351353,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,AI/NLP,1,2.0,41.95457318267404,280.0073838629241,0?,Market?,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Cairo,AI/NLP,1,2.0,46.167902140773975,327.9249130566864,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+CardoO,2018,Suez,HandCrafts,1,1.0,199.27310993289254,629590.9594177362,1,Market,,,,,Medium,0,Some,Strong,1,,0
+Visit Ventures,2019,Damietta,Fintech,1,2.0,38.48399922657071,314.12208906040127,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Suez,Ecommerce,1,2.0,40.93231500478993,288.5888778153164,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Cairo,Logistics,1,2.0,44.287590661376484,320.5525631565899,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,South Egypt,Technology,1,2.0,45.34461977104726,345.8150531788153,0?,Market,,,,,High,0,Many,Strong,0,,0
+Widebot,2016?,South Egypt,Ecommerce,1,,208.80013268107845,3061432.1695863567,1,Market,,,,,High,0,Few,Strong,1,,1
+CardoO,2018,Damietta,Travel Tech,1,1.0,212.27126923361678,686798.0884517541,1,Market,,,,,Medium,0,Some,Medium,1,,0
+CardoO,2018,South Egypt,Transportation,1,1.0,188.5969208148033,645843.1384451134,1,Market,,,,,Medium,0,Some,Medium,1,,0
+Visit Ventures,2019,Port Said,Transportation,1,2.0,47.85294938970264,308.64149090828846,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Ismailia,HandCrafts,1,2.0,42.26110185814289,307.96872305657223,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Cairo,Fintech,1,2.0,41.80227138281047,301.39124354128666,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Ismailia,Travel Tech,1,2.0,42.152656482902,297.39474585667676,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Ismailia,AI/NLP,1,2.0,45.48546239627167,297.58053056148776,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Suez,Technology,1,2.0,44.64320517282921,263.5568627139189,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Suez,Technology,1,2.0,40.48226823299896,324.61279525434526,0?,Market,,,,,Low–Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,Damietta,Fintech,1,2.0,44.769866508428976,313.16636146824925,0?,Market,,,,,High,0,Many,Strong,0,,0
+CardoO,2018,Damietta,HandCrafts,1,1.0,197.39239120192047,617807.2880070811,1,Market,,,,,High,0,Some,Strong,1,,0
+Paysky,2017,Damietta,Travel Tech,1,1.0,190.05628947528444,303.9233493534623,1,Market?,,,,,Medium,1,Many,Strong,1,,1
+Paymob,2015,Alexandria,Ecommerce,1,3.0,212.539776547235,273.48402742245975,1,Market?,,,,,Medium,1,Many,Medium,1,,1
+CardoO,2018,Port Said,Logistics,1,1.0,197.06004010118917,635891.2014770253,1,Market?,,,,,High,0,Some,Strong,1,,0
+Visit Ventures,2019,Alexandria,Fintech,1,2.0,45.89372284579355,323.1811877616665,0?,Market,,,,,High,0,Many,Strong,0,,0
+Yaoota,2014,Suez,Logistics,1,2.0,42.348170370772536,2834108.828156107,1,Market,,,,,Low–Medium,0,Some,Strong,1,,1
+Visit Ventures,2019,South Egypt,Food,1,2.0,42.2244385857461,312.749958606141,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Suez,Technology,1,2.0,43.16387056387044,314.76265190319646,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Swvl,2017,Alexandria,Fintech,1,3.0,606.1998919841079,329.373081875313,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Paymob,2015,Cairo,Ecommerce,1,3.0,199.75539270059016,301.9840016793946,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Cairo,HandCrafts,1,2.0,39.476527044870664,311.0198896602356,0?,Market,,,,,High,0,Many,Medium,0,,0
+MNT-Halan,2017,South Egypt,Transportation,1,3.0,481.99882784173684,314.2191021826763,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Suez,Transportation,1,2.0,43.3117363773215,333.46233577872226,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Damietta,Ecommerce,1,2.0,45.17722776816317,304.3015284533175,0?,Market,,,,,Low–Medium,0,Many,Medium,0,,0
+Paymob,2015,Damietta,Technology,1,3.0,204.88851634042828,292.15089185911444,1,Market,,,,,Medium,1,Many,Medium,1,,1
+Visit Ventures,2019,South Egypt,AI/NLP,1,2.0,44.69988801871192,276.8445573145382,0?,Market?,,,,,Medium,0,Many,Strong,0,,0
+Bosta,2017?,Port Said,HandCrafts,1,2.0,306.54833367805014,299.3574353958033,1,Market,,,,,High,1,Many,Strong,1,,1
+CardoO,2018,Damietta,Travel Tech,1,1.0,196.8219389629099,662393.5546224316,1,Market,,,,,High,0,Some,Strong,1,,0
+Paymob,2015,Cairo,Transportation,1,3.0,195.5671835551823,302.32166085587147,1,Market?,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,South Egypt,HandCrafts,1,2.0,48.48358970348767,306.0633773389442,0?,Market?,,,,,Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,South Egypt,Ecommerce,1,2.0,43.553537603527474,299.9655124483279,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,Food,1,2.0,40.797104783143126,305.63013021263026,0?,Market,,,,,Low–Medium,0,Many,Strong,0,,0
+Swvl,2017,Cairo,Travel Tech,1,3.0,584.6065180378396,285.11278608856117,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,South Egypt,HandCrafts,1,2.0,42.68049402353832,319.40222721176514,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Suez,Technology,1,2.0,43.79458906345349,268.2039287511395,0?,Market,,,,,High,0,Many,Strong,0,,0
+Paymob,2015,Damietta,Fintech,1,3.0,204.57986360102845,295.8904411822225,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Cairo,Ecommerce,1,2.0,41.429795831414694,289.7117156276394,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Damietta,Fintech,1,2.0,44.6061839490489,315.2733293731196,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Widebot,2016?,Alexandria,Food,1,,204.82896445163138,3147001.6740609715,1,Market,,,,,Medium,0,Few,Medium,1,,1
+MNT-Halan,2017,Damietta,Travel Tech,1,3.0,500.33106232387235,313.56532930086445,1,Market,,,,,High,1,Many,Medium,1,,1
+Visit Ventures,2019,Port Said,Food,1,2.0,40.492704766116276,285.9645849084053,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Swvl,2017,Suez,Ecommerce,1,3.0,595.4744697149531,317.254275706125,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Port Said,Technology,1,2.0,48.88254927710897,270.8399156706066,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Ismailia,Ecommerce,1,2.0,44.95682206877492,306.9185538751567,0?,Market,,,,,High,0,Many,Strong,0,,0
+Paysky,2017,Cairo,Technology,1,1.0,202.36162139606682,313.3838239093947,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Suez,Travel Tech,1,2.0,41.19602934923319,301.78915691431763,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Damietta,Travel Tech,1,2.0,47.16836132264523,314.72975491064693,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Breadfast,2017,Cairo,Ecommerce,1,3.0,149.74345223797314,291.1159434274314,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Alexandria,Travel Tech,1,2.0,43.15065291663764,292.9264042708021,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Damietta,Food,1,2.0,41.52208309965176,301.02443834294775,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Suez,Travel Tech,1,2.0,44.01495625456511,318.0141723166586,0?,Market,,,,,High,0,Many,Strong,0,,0
+Widebot,2016?,Damietta,Transportation,1,,204.6951797887993,2733663.956752187,1,Market,,,,,High,0,Few,Strong,1,,1
+Paymob,2015,South Egypt,Transportation,1,3.0,187.0090975634265,291.5176696651072,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Port Said,Travel Tech,1,2.0,42.34209659767151,265.80932578225224,0?,Market,,,,,High,0,Many,Strong,0,,0
+Paymob,2015,South Egypt,Transportation,1,3.0,197.5589641364205,306.91754495088907,1,Market,,,,,Medium,1,Many,Strong,1,,1
+Visit Ventures,2019,Damietta,Technology,1,2.0,48.19434118150676,270.97924227610355,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Yaoota,2014,Port Said,Technology,1,2.0,41.54648771571942,2868867.439747121,1,Market,,,,,Medium,0,Some,Medium,1,,1
+Visit Ventures,2019,Cairo,Technology,1,2.0,42.30229105576497,290.31889857377706,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Yaoota,2014,Suez,Food,1,2.0,41.81678234370381,2580284.0326506994,1,Market,,,,,High,0,Some,Strong,1,,1
+Visit Ventures,2019,Port Said,Fintech,1,2.0,44.66810338618072,312.7797905144916,0?,Market,,,,,High,0,Many,Strong,0,,0
+Yaoota,2014,Alexandria,Food,1,2.0,41.16588755141304,2495880.243115938,1,Market,,,,,Medium,0,Some,Strong,1,,1
+Yaoota,2014,Port Said,HandCrafts,1,2.0,40.87191654030808,2725579.9144553593,1,Market,,,,,Medium,0,Some,Strong,1,,1
+Bosta,2017?,Suez,AI/NLP,1,2.0,308.7214830709006,300.2490789320252,1,Market,,,,,High,1,Many,Strong,1,,1
+Paymob,2015,Suez,Fintech,1,3.0,200.17287642079694,301.42317244445746,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Damietta,Travel Tech,1,2.0,42.49763738227703,306.4784678745542,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Widebot,2016?,Damietta,Technology,1,,182.9371005117976,2744192.9585014493,1,Market,,,,,High,0,Few,Medium,1,,1
+Visit Ventures,2019,Port Said,Travel Tech,1,2.0,44.24383834773814,321.8184994540365,0?,Market,,,,,High,0,Many,Strong,0,,0
+MNT-Halan,2017,Ismailia,Technology,1,3.0,532.1827714222949,283.2792069516274,1,Market?,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,South Egypt,HandCrafts,1,2.0,40.476716432219796,321.7495069608554,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Damietta,Travel Tech,1,2.0,42.401643259329205,291.0597672716805,0?,Market,,,,,High,0,Many,Strong,0,,0
+Paysky,2017,South Egypt,HandCrafts,1,1.0,180.98961188853522,295.5741394862022,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Alexandria,Transportation,1,2.0,46.45646756123824,286.9950790133429,0?,Market,,,,,Low–Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Alexandria,Transportation,1,2.0,45.21572478290978,312.88381226980084,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Yaoota,2014,Cairo,Fintech,1,2.0,42.1070264608332,2585966.2364658797,1,Market,,,,,Medium,0,Some,Strong,1,,1
+Visit Ventures,2019,South Egypt,Food,1,2.0,43.906788279172495,307.09706909771,0?,Market,,,,,Low–Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,Port Said,Technology,1,2.0,47.45193529794523,293.5271556366845,0?,Market,,,,,High,0,Many,Strong,0,,0
+Visit Ventures,2019,Cairo,HandCrafts,1,2.0,41.41263299702935,306.008904355673,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Ismailia,Fintech,1,2.0,43.57562216809889,295.11840457278043,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Ismailia,Technology,1,2.0,43.30932285752481,324.5531677141169,0?,Market?,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Port Said,Fintech,1,2.0,44.0437556274123,301.060333525806,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Paysky,2017,Ismailia,Technology,1,1.0,207.698999437736,312.2386855977487,1,Market,,,,,High,1,Many,Medium,1,,1
+Breadfast,2017,Suez,Logistics,1,3.0,159.35032202968898,314.55189068298245,1,Market,,,,,Low–Medium,1,Many,Strong,1,,1
+Paysky,2017,Ismailia,AI/NLP,1,1.0,212.27113411257582,286.6700600488996,1,Market,,,,,Low–Medium,1,Many,Medium,1,,1
+Visit Ventures,2019,Ismailia,Travel Tech,1,2.0,43.98316777776061,298.99025375202655,0?,Market,,,,,High,0,Many,Medium,0,,0
+Swvl,2017,Suez,Travel Tech,1,3.0,533.9373174130646,305.82784627457636,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Damietta,Ecommerce,1,2.0,40.60474682437621,312.55079485651936,0?,Market,,,,,High,0,Many,Medium,0,,0
+Swvl,2017,Ismailia,AI/NLP,1,3.0,595.2369005199126,263.6675202174506,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Damietta,Food,1,2.0,43.94604782540334,311.8094660018237,0?,Market,,,,,Medium,0,Many,Strong,0,,0
+Visit Ventures,2019,Ismailia,AI/NLP,1,2.0,47.69575007197442,297.03126556554145,0?,Market,,,,,High,0,Many,Strong,0,,0
+CardoO,2018,South Egypt,Ecommerce,1,1.0,202.0006720408722,625279.5658446962,1,Market,,,,,High,0,Some,Strong,1,,0
+Visit Ventures,2019,Alexandria,AI/NLP,1,2.0,42.154485256163525,299.52337990721725,0?,Market,,,,,High,0,Many,Medium,0,,0
+Breadfast,2017,Alexandria,Travel Tech,1,3.0,152.58782725149683,312.6816200334936,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Ismailia,HandCrafts,1,2.0,44.41432720029625,310.4551956767301,0?,Market,,,,,High,0,Many,Strong,0,,0
+MNT-Halan,2017,Damietta,Travel Tech,1,3.0,506.2553706164178,292.31196112955945,1,Market,,,,,High,1,Many,Strong,1,,1
+Yaoota,2014,Damietta,Fintech,1,2.0,37.47448880212149,2684442.3295564484,1,Market,,,,,High,0,Some,Strong,1,,1
+Bosta,2017?,Ismailia,Technology,1,2.0,286.35205404089595,288.40960167961407,1,Market,,,,,High,1,Many,Strong,1,,1
+Swvl,2017,South Egypt,Logistics,1,3.0,559.5165798593389,300.6609219310466,1,Market,,,,,High,1,Many,Strong,1,,1
+Visit Ventures,2019,Port Said,Food,1,2.0,42.80541794595464,289.4973839958661,0?,Market,,,,,High,0,Many,Medium,0,,0
+Visit Ventures,2019,Damietta,Logistics,1,2.0,42.95030164942811,282.4576691072374,0?,Market?,,,,,Medium,0,Many,Medium,0,,0
+Visit Ventures,2019,Alexandria,Fintech,1,2.0,44.67352299941213,288.73839593897236,0?,Market,,,,,Medium,0,Many,Medium,0,,0
+Swvl,2017,Damietta,Fintech,1,3.0,603.0790689980366,309.4701298330165,1,Market,,,,,High,1,Many,Strong,1,,1

@@ -1,0 +1,501 @@
+founded_year,city,industry,has_online_presence,num_founders,num_employees,got_external_funding,startup_stage,market_competition_level,incubator_support,num_direct_competitors,market_need_level,is_successful
+2017,Cairo,Fintech,1,3.0,500,1,Market,High,1,Many,Strong,1
+2015,Cairo,Fintech,1,3.0,200,1,Market,High,1,Many,Strong,1
+2017,Cairo,Logistics,1,2.0,300,1,Market,High,1,Many,Strong,1
+2017,Cairo,Transportation,1,3.0,600,1,Market,High,1,Many,Strong,1
+2017,Cairo,F&B/Ecom,1,3.0,150,1,Market,Medium,1,Many,Strong,1
+2017,Cairo,Fintech,1,1.0,200,1,Market,High,1,Many,Strong,1
+2014,Cairo,E‑commerce,1,2.0,40,1,Market,Medium,0,Some,Medium,1
+2018,Cairo,IoT,1,1.0,12,1,Market,Medium,0,Some,Medium,1
+2019,Cairo,Travel Tech,1,2.0,44,0,Market,Medium,0,Many,Medium,0
+2016,Cairo,AI/NLP,1,2.0,12,1,Market,Low,0,Few,Strong,1
+2011,Cairo,Delivery,0,1.0,5,0,Market entry,Medium,0,Some,Medium,0
+2014,Alexandria,Co‑working,1,2.0,10,0,Growth,Medium,0,Many,Medium,0
+2017,Cairo,Social commerce,1,4.0,100,1,Growth,High,1,Many,Strong,0
+2016,Cairo,Logistics/Cloud,1,2.0,50,1,Growth,Medium,0,Many,Medium,0
+2021,Cairo,Logistics,1,1.0,50,1,Growth,Medium,0,Many,Medium,0
+2020,Cairo,B2B e‑commerce,1,2.0,2000,1,Scale,High,0,Many,Strong,0
+2012,Alexandria,Price comparison,1,1.0,20,1,Growth,Medium,0,Some,Medium,0
+2012,Cairo,Entertainment Portal,1,2.0,10,1,Growth,Medium,0,Few,Weak,0
+2019,Cairo,Travel Tech,1,2.0,44,0,Market entry,Medium,0,Many,Medium,0
+2017,Assiut,Hardware/mobile,0,2.0,100,0,Market entry,High,0,Many,Weak,0
+2024,Portsaid,Arts & Culture,1,1.0,3,0,Market entry,Low,0,Few,Medium,0
+1982,Portsaid,Aviation,0,2.0,37,0,Growth,Medium,0,Some,Strong,1
+1988,Portsaid,Fast Food,1,2.0,20,1,Market,High,0,Many,Strong,1
+2000,Portsaid,Logistics/Port,0,2.0,12,0,Market,High,0,Some,Strong,1
+2024,Portsaid,Maritime services,0,2.0,12,0,Market entry,Medium,0,Some,Medium,1
+2011,Portsaid,Delivery (Print),0,1.0,5,0,Market entry,Medium,0,Some,Low,0
+2009,Portsaid,Events Management,0,4.0,4,0,Market entry,Medium,0,Few,Low,0
+2018,Portsaid,Café / F&B,0,1.0,3,0,Market entry,High,0,Many,Medium,0
+2020,Portsaid,Food Delivery,1,2.0,10,0,Growth,High,0,Many,Medium,0
+2017,Portsaid,Co‑working Space,1,2.0,8,0,Growth,Medium,0,Many,Medium,0
+2021,Ismailia,Food Delivery,1,2.0,15,0,Growth,High,0,Many,Strong,0
+2019,Ismailia,Restaurant,1,1.0,8,0,Market,Medium,0,Some,Strong,1
+2020,Ismailia,Art & Crafts,1,1.0,5,0,Market entry,Low,0,Few,Medium,0
+2018,Ismailia,Agri-business,1,3.0,30,1,Growth,Medium,0,Some,Strong,1
+1997,Ismailia,Industrial Tech,0,2.0,12,1,Growth,High,0,Many,Medium,0
+1997,Ismailia,Tech Valley,0,2.0,12,0,Growth,High,0,Many,Medium,0
+2016,Ismailia,Handicrafts shop,0,1.0,4,0,Market entry,Medium,0,Few,Weak,0
+2020,Ismailia,Restaurant chain,1,2.0,12,0,Growth,High,0,Many,Medium,0
+2018,Ismailia,Tourism services,1,2.0,6,0,Growth,Medium,0,Some,Medium,0
+2019,Ismailia,Agri-business,1,3.0,20,0,Market,Medium,0,Some,Medium,0
+2021,Suez,E-commerce,1,2.0,10,0,Growth,Medium,0,Some,Strong,1
+2019,Suez,Food & Beverage,1,1.0,15,0,Market,High,0,Many,Strong,1
+2018,Suez,Logistics,0,3.0,30,1,Growth,Medium,0,Some,Medium,1
+2020,Suez,Home Services,1,2.0,8,0,Growth,Medium,0,Some,Medium,1
+2017,Suez,Industrial Tech,0,3.0,50,1,Growth,High,0,Many,Strong,1
+2020,Suez,Restaurant,0,1.0,5,0,Market entry,High,0,Many,Medium,0
+2019,Suez,Co-working,1,2.0,6,0,Growth,Medium,0,Some,Medium,0
+2021,Suez,Cleaning Service,1,1.0,4,0,Market entry,Low,0,Few,Low,0
+2018,Suez,Port Analytics,0,3.0,12,0,Growth,High,0,Many,Medium,0
+2019,Suez,Agri-business,0,2.0,10,0,Market,Medium,0,Some,Medium,0
+2020,Damietta,Aquaculture Tech,1,2.0,12,0,Growth,Medium,0,Few,Strong,1
+2019,Damietta,Wood Products Ecom,1,1.0,8,0,Market,Medium,0,Few,Medium,1
+2018,Damietta,Bakery E‑Commerce,1,1.0,6,0,Market,High,0,Some,Strong,1
+2017,Damietta,Furniture Export,0,3.0,35,1,Growth,High,0,Some,Strong,1
+2021,Damietta,Crafts/Gifts,1,1.0,5,0,Market entry,Low,0,Few,Medium,0
+2019,Damietta,Café / Bakery,0,1.0,4,0,Market entry,High,0,Many,Medium,0
+2020,Damietta,Seafood Delivery,1,2.0,10,0,Growth,Medium,0,Some,Medium,0
+2018,Damietta,Woodcraft Shop,0,1.0,3,0,Market entry,Medium,0,Few,Low,0
+2021,Damietta,Agri-Tech,1,2.0,8,0,Growth,Medium,0,Some,Medium,0
+2017,Damietta,Furniture Retail,0,2.0,12,0,Market,High,0,Many,Medium,0
+2020,Assiut,Agri‑Tech,1,2.0,15,0,Growth,Medium,0,Many,Medium,nan
+2019,Sohag,Renewable Energy,0,3.0,20,1,Market,Medium,0,Many,Medium,nan
+2018,Luxor,Arts & Heritage Ecom,1,1.0,8,0,Market,Medium,0,Many,Medium,nan
+2021,Qena,Food Delivery,1,2.0,12,0,Growth,Medium,0,Many,Medium,nan
+2017,Aswan,Tourism Services,0,2.0,25,1,Growth,Medium,0,Many,Medium,nan
+2020,Minya,Textile E‑commerce,1,1.0,10,0,Market,Medium,0,Many,Medium,nan
+2019,Aswan,Stone Export,0,3.0,12,1,Growth,Medium,0,Many,Medium,nan
+2021,Assiut,Health Services,1,2.0,5,0,Growth,Medium,0,Many,Medium,nan
+2018,Sohag,EdTech,1,2.0,10,0,Market,Medium,0,Many,Medium,nan
+2019,Luxor,Crafts/Gifts,1,1.0,7,0,Market,Medium,0,Many,Medium,nan
+2019,Assiut,Café / Bakery,0,1.0,4,0,Market entry,Medium,0,Many,Medium,nan
+2020,Sohag,Transport App,1,2.0,8,0,Growth,Medium,0,Many,Medium,nan
+2018,Luxor,Tourism Photography,0,1.0,5,0,Market entry,Medium,0,Many,Medium,nan
+2021,Qena,Fashion E‑commerce,1,2.0,6,0,Growth,Medium,0,Many,Medium,nan
+2020,Aswan,Mobility,1,3.0,10,0,Growth,Medium,0,Many,Medium,nan
+2019,Minya,Agri‑business,0,2.0,7,0,Market entry,Medium,0,Many,Medium,nan
+2018,Aswan,Home Services,1,2.0,5,0,Growth,Medium,0,Many,Medium,nan
+2020,Assiut,Tutoring Services,1,1.0,3,0,Market entry,Medium,0,Many,Medium,nan
+2017,Sohag,Craft Shop,0,1.0,4,0,Market entry,Medium,0,Many,Medium,nan
+2021,Luxor,Food Truck,0,1.0,3,0,Market entry,Medium,0,Many,Medium,nan
+2017,online,HealthTech,1,2.0,50,1,Market,High,1,Many,Strong,1
+2011,online,Food Delivery,1,3.0,120,1,Market,High,1,Many,Strong,1
+2017,online,EdTech,1,2.0,80,1,Growth,Medium,1,Some,Strong,1
+2014,online,E‑grocery,1,2.0,60,1,Market,Medium,1,Some,Strong,1
+2017,online,FoodTech,1,3.0,150,1,Market,Medium,1,Many,Strong,1
+2020,online,FinTech,1,4.0,40,1,Growth,Medium,1,Some,Medium,1
+2016,online,Gaming/Esports,1,2.0,30,1,Growth,Medium,0,Some,Strong,1
+2016,online,AI/NLP,1,2.0,20,1,Market,Low,0,Few,Medium,1
+2015,online,Home‑cooked Meal,1,3.0,45,1,Market,Medium,0,Some,Strong,1
+2017,online,Carpooling App,1,2.0,15,0,Growth,High,0,Many,Medium,1
+2015,online,Home‑meal Delivery,1,3.0,45,1,Market,Medium,0,Some,Strong,0
+2017,online,Carpooling App,1,2.0,15,0,Growth,High,0,Many,Medium,0
+2011,online,Solar Equipment,1,3.0,12,1,Growth,Medium,0,Some,Medium,0
+2018,online,Logistics Platform,1,2.0,25,0,Growth,High,0,Many,Medium,0
+2018,online,FinTech,1,2.0,30,0,Growth,Medium,0,Some,Medium,0
+2012,online,E‑grocery,1,3.0,50,0,Growth,High,0,Many,Medium,0
+2016,online,Ride‑hailing,1,2.0,15,0,Growth,High,0,Many,Medium,0
+2017,online,Transport Platform,1,2.0,20,0,Growth,High,0,Many,Medium,0
+2019,online,Video Streaming,1,3.0,10,0,Market entry,Medium,0,Few,Medium,0
+2020,online,Grocery Automation,1,2.0,10,0,Market entry,Medium,0,Few,Medium,0
+2017,Cairo,Fintech,1,3.0,500,1,Market,High,1,Many,Strong,1
+2017,Cairo,Fintech,1,3.0,500,1,Market,High,1,Many,Strong,1
+2017,Cairo,Fintech,1,3.0,500,1,Market,High,1,Many,Strong,1
+2017,Cairo,Fintech,1,3.0,500,1,Market,High,1,Many,Strong,1
+2015,Cairo,Fintech,1,3.0,200,1,Market,High,1,Many,Strong,1
+2015,Cairo,Fintech,1,3.0,200,1,Market,High,1,Many,Strong,1
+2015,Cairo,Fintech,1,3.0,200,1,Market,High,1,Many,Strong,1
+2015,Cairo,Fintech,1,3.0,200,1,Market,High,1,Many,Strong,1
+2017,Cairo,Logistics,1,2.0,300,1,Market,High,1,Many,Strong,1
+2017,Cairo,Logistics,1,2.0,300,1,Market,High,1,Many,Strong,1
+2017,Cairo,Logistics,1,2.0,300,1,Market,High,1,Many,Strong,1
+2017,Cairo,Logistics,1,2.0,300,1,Market,High,1,Many,Strong,1
+2017,Cairo,Transportation,1,3.0,600,1,Market,High,1,Many,Strong,1
+2017,Cairo,Transportation,1,3.0,600,1,Market,High,1,Many,Strong,1
+2017,Cairo,Transportation,1,3.0,600,1,Market,High,1,Many,Strong,1
+2017,Cairo,Transportation,1,3.0,600,1,Market,High,1,Many,Strong,1
+2017,Cairo,F&B/Ecom,1,3.0,150,1,Market,Medium,1,Many,Strong,1
+2017,Cairo,F&B/Ecom,1,3.0,150,1,Market,Medium,1,Many,Strong,1
+2017,Cairo,F&B/Ecom,1,3.0,150,1,Market,Medium,1,Many,Strong,1
+2017,Cairo,F&B/Ecom,1,3.0,150,1,Market,Medium,1,Many,Strong,1
+2017,Cairo,Fintech,1,1.0,200,1,Market,High,1,Many,Strong,1
+2017,Cairo,Fintech,1,1.0,200,1,Market,High,1,Many,Strong,1
+2017,Cairo,Fintech,1,1.0,200,1,Market,High,1,Many,Strong,1
+2017,Cairo,Fintech,1,1.0,200,1,Market,High,1,Many,Strong,1
+2014,Cairo,E‑commerce,1,2.0,40,1,Market,Medium,0,Some,Medium,1
+2014,Cairo,E‑commerce,1,2.0,40,1,Market,Medium,0,Some,Medium,1
+2014,Cairo,E‑commerce,1,2.0,40,1,Market,Medium,0,Some,Medium,1
+2014,Cairo,E‑commerce,1,2.0,40,1,Market,Medium,0,Some,Medium,1
+2018,Cairo,IoT,1,1.0,12,1,Market,Medium,0,Some,Medium,1
+2018,Cairo,IoT,1,1.0,12,1,Market,Medium,0,Some,Medium,1
+2018,Cairo,IoT,1,1.0,12,1,Market,Medium,0,Some,Medium,1
+2018,Cairo,IoT,1,1.0,12,1,Market,Medium,0,Some,Medium,1
+2019,Cairo,Travel Tech,1,2.0,44,0,Market,Medium,0,Many,Medium,0
+2019,Cairo,Travel Tech,1,2.0,44,0,Market,Medium,0,Many,Medium,0
+2019,Cairo,Travel Tech,1,2.0,44,0,Market,Medium,0,Many,Medium,0
+2019,Cairo,Travel Tech,1,2.0,44,0,Market,Medium,0,Many,Medium,0
+2016,Cairo,AI/NLP,1,2.0,12,1,Market,Low,0,Few,Strong,1
+2016,Cairo,AI/NLP,1,2.0,12,1,Market,Low,0,Few,Strong,1
+2016,Cairo,AI/NLP,1,2.0,12,1,Market,Low,0,Few,Strong,1
+2016,Cairo,AI/NLP,1,2.0,12,1,Market,Low,0,Few,Strong,1
+2011,Cairo,Delivery,0,1.0,5,0,Market entry,Medium,0,Some,Medium,0
+2011,Cairo,Delivery,0,1.0,5,0,Market entry,Medium,0,Some,Medium,0
+2011,Cairo,Delivery,0,1.0,5,0,Market entry,Medium,0,Some,Medium,0
+2011,Cairo,Delivery,0,1.0,5,0,Market entry,Medium,0,Some,Medium,0
+2014,Alexandria,Co‑working,1,2.0,10,0,Growth,Medium,0,Many,Medium,0
+2014,Alexandria,Co‑working,1,2.0,10,0,Growth,Medium,0,Many,Medium,0
+2014,Alexandria,Co‑working,1,2.0,10,0,Growth,Medium,0,Many,Medium,0
+2014,Alexandria,Co‑working,1,2.0,10,0,Growth,Medium,0,Many,Medium,0
+2017,Cairo,Social commerce,1,4.0,100,1,Growth,High,1,Many,Strong,0
+2017,Cairo,Social commerce,1,4.0,100,1,Growth,High,1,Many,Strong,0
+2017,Cairo,Social commerce,1,4.0,100,1,Growth,High,1,Many,Strong,0
+2017,Cairo,Social commerce,1,4.0,100,1,Growth,High,1,Many,Strong,0
+2016,Cairo,Logistics/Cloud,1,2.0,50,1,Growth,Medium,0,Many,Medium,0
+2016,Cairo,Logistics/Cloud,1,2.0,50,1,Growth,Medium,0,Many,Medium,0
+2016,Cairo,Logistics/Cloud,1,2.0,50,1,Growth,Medium,0,Many,Medium,0
+2016,Cairo,Logistics/Cloud,1,2.0,50,1,Growth,Medium,0,Many,Medium,0
+2021,Cairo,Logistics,1,1.0,50,1,Growth,Medium,0,Many,Medium,0
+2021,Cairo,Logistics,1,1.0,50,1,Growth,Medium,0,Many,Medium,0
+2021,Cairo,Logistics,1,1.0,50,1,Growth,Medium,0,Many,Medium,0
+2021,Cairo,Logistics,1,1.0,50,1,Growth,Medium,0,Many,Medium,0
+2020,Cairo,B2B e‑commerce,1,2.0,2000,1,Scale,High,0,Many,Strong,0
+2020,Cairo,B2B e‑commerce,1,2.0,2000,1,Scale,High,0,Many,Strong,0
+2020,Cairo,B2B e‑commerce,1,2.0,2000,1,Scale,High,0,Many,Strong,0
+2020,Cairo,B2B e‑commerce,1,2.0,2000,1,Scale,High,0,Many,Strong,0
+2012,Alexandria,Price comparison,1,1.0,20,1,Growth,Medium,0,Some,Medium,0
+2012,Alexandria,Price comparison,1,1.0,20,1,Growth,Medium,0,Some,Medium,0
+2012,Alexandria,Price comparison,1,1.0,20,1,Growth,Medium,0,Some,Medium,0
+2012,Alexandria,Price comparison,1,1.0,20,1,Growth,Medium,0,Some,Medium,0
+2012,Cairo,Entertainment Portal,1,2.0,10,1,Growth,Medium,0,Few,Weak,0
+2012,Cairo,Entertainment Portal,1,2.0,10,1,Growth,Medium,0,Few,Weak,0
+2012,Cairo,Entertainment Portal,1,2.0,10,1,Growth,Medium,0,Few,Weak,0
+2012,Cairo,Entertainment Portal,1,2.0,10,1,Growth,Medium,0,Few,Weak,0
+2019,Cairo,Travel Tech,1,2.0,44,0,Market entry,Medium,0,Many,Medium,0
+2019,Cairo,Travel Tech,1,2.0,44,0,Market entry,Medium,0,Many,Medium,0
+2019,Cairo,Travel Tech,1,2.0,44,0,Market entry,Medium,0,Many,Medium,0
+2019,Cairo,Travel Tech,1,2.0,44,0,Market entry,Medium,0,Many,Medium,0
+2017,Assiut,Hardware/mobile,0,2.0,100,0,Market entry,High,0,Many,Weak,0
+2017,Assiut,Hardware/mobile,0,2.0,100,0,Market entry,High,0,Many,Weak,0
+2017,Assiut,Hardware/mobile,0,2.0,100,0,Market entry,High,0,Many,Weak,0
+2017,Assiut,Hardware/mobile,0,2.0,100,0,Market entry,High,0,Many,Weak,0
+2024,Portsaid,Arts & Culture,1,1.0,3,0,Market entry,Low,0,Few,Medium,0
+2024,Portsaid,Arts & Culture,1,1.0,3,0,Market entry,Low,0,Few,Medium,0
+2024,Portsaid,Arts & Culture,1,1.0,3,0,Market entry,Low,0,Few,Medium,0
+2024,Portsaid,Arts & Culture,1,1.0,3,0,Market entry,Low,0,Few,Medium,0
+1982,Portsaid,Aviation,0,2.0,37,0,Growth,Medium,0,Some,Strong,1
+1982,Portsaid,Aviation,0,2.0,37,0,Growth,Medium,0,Some,Strong,1
+1982,Portsaid,Aviation,0,2.0,37,0,Growth,Medium,0,Some,Strong,1
+1982,Portsaid,Aviation,0,2.0,37,0,Growth,Medium,0,Some,Strong,1
+1988,Portsaid,Fast Food,1,2.0,20,1,Market,High,0,Many,Strong,1
+1988,Portsaid,Fast Food,1,2.0,20,1,Market,High,0,Many,Strong,1
+1988,Portsaid,Fast Food,1,2.0,20,1,Market,High,0,Many,Strong,1
+1988,Portsaid,Fast Food,1,2.0,20,1,Market,High,0,Many,Strong,1
+2000,Portsaid,Logistics/Port,0,2.0,12,0,Market,High,0,Some,Strong,1
+2000,Portsaid,Logistics/Port,0,2.0,12,0,Market,High,0,Some,Strong,1
+2000,Portsaid,Logistics/Port,0,2.0,12,0,Market,High,0,Some,Strong,1
+2000,Portsaid,Logistics/Port,0,2.0,12,0,Market,High,0,Some,Strong,1
+2024,Portsaid,Maritime services,0,2.0,12,0,Market entry,Medium,0,Some,Medium,1
+2024,Portsaid,Maritime services,0,2.0,12,0,Market entry,Medium,0,Some,Medium,1
+2024,Portsaid,Maritime services,0,2.0,12,0,Market entry,Medium,0,Some,Medium,1
+2024,Portsaid,Maritime services,0,2.0,12,0,Market entry,Medium,0,Some,Medium,1
+2011,Portsaid,Delivery (Print),0,1.0,5,0,Market entry,Medium,0,Some,Low,0
+2011,Portsaid,Delivery (Print),0,1.0,5,0,Market entry,Medium,0,Some,Low,0
+2011,Portsaid,Delivery (Print),0,1.0,5,0,Market entry,Medium,0,Some,Low,0
+2011,Portsaid,Delivery (Print),0,1.0,5,0,Market entry,Medium,0,Some,Low,0
+2009,Portsaid,Events Management,0,4.0,4,0,Market entry,Medium,0,Few,Low,0
+2009,Portsaid,Events Management,0,4.0,4,0,Market entry,Medium,0,Few,Low,0
+2009,Portsaid,Events Management,0,4.0,4,0,Market entry,Medium,0,Few,Low,0
+2009,Portsaid,Events Management,0,4.0,4,0,Market entry,Medium,0,Few,Low,0
+2018,Portsaid,Café / F&B,0,1.0,3,0,Market entry,High,0,Many,Medium,0
+2018,Portsaid,Café / F&B,0,1.0,3,0,Market entry,High,0,Many,Medium,0
+2018,Portsaid,Café / F&B,0,1.0,3,0,Market entry,High,0,Many,Medium,0
+2018,Portsaid,Café / F&B,0,1.0,3,0,Market entry,High,0,Many,Medium,0
+2020,Portsaid,Food Delivery,1,2.0,10,0,Growth,High,0,Many,Medium,0
+2020,Portsaid,Food Delivery,1,2.0,10,0,Growth,High,0,Many,Medium,0
+2020,Portsaid,Food Delivery,1,2.0,10,0,Growth,High,0,Many,Medium,0
+2020,Portsaid,Food Delivery,1,2.0,10,0,Growth,High,0,Many,Medium,0
+2017,Portsaid,Co‑working Space,1,2.0,8,0,Growth,Medium,0,Many,Medium,0
+2017,Portsaid,Co‑working Space,1,2.0,8,0,Growth,Medium,0,Many,Medium,0
+2017,Portsaid,Co‑working Space,1,2.0,8,0,Growth,Medium,0,Many,Medium,0
+2017,Portsaid,Co‑working Space,1,2.0,8,0,Growth,Medium,0,Many,Medium,0
+2021,Ismailia,Food Delivery,1,2.0,15,0,Growth,High,0,Many,Strong,0
+2021,Ismailia,Food Delivery,1,2.0,15,0,Growth,High,0,Many,Strong,0
+2021,Ismailia,Food Delivery,1,2.0,15,0,Growth,High,0,Many,Strong,0
+2021,Ismailia,Food Delivery,1,2.0,15,0,Growth,High,0,Many,Strong,0
+2019,Ismailia,Restaurant,1,1.0,8,0,Market,Medium,0,Some,Strong,1
+2019,Ismailia,Restaurant,1,1.0,8,0,Market,Medium,0,Some,Strong,1
+2019,Ismailia,Restaurant,1,1.0,8,0,Market,Medium,0,Some,Strong,1
+2019,Ismailia,Restaurant,1,1.0,8,0,Market,Medium,0,Some,Strong,1
+2020,Ismailia,Art & Crafts,1,1.0,5,0,Market entry,Low,0,Few,Medium,0
+2020,Ismailia,Art & Crafts,1,1.0,5,0,Market entry,Low,0,Few,Medium,0
+2020,Ismailia,Art & Crafts,1,1.0,5,0,Market entry,Low,0,Few,Medium,0
+2020,Ismailia,Art & Crafts,1,1.0,5,0,Market entry,Low,0,Few,Medium,0
+2018,Ismailia,Agri-business,1,3.0,30,1,Growth,Medium,0,Some,Strong,1
+2018,Ismailia,Agri-business,1,3.0,30,1,Growth,Medium,0,Some,Strong,1
+2018,Ismailia,Agri-business,1,3.0,30,1,Growth,Medium,0,Some,Strong,1
+2018,Ismailia,Agri-business,1,3.0,30,1,Growth,Medium,0,Some,Strong,1
+1997,Ismailia,Industrial Tech,0,2.0,12,1,Growth,High,0,Many,Medium,0
+1997,Ismailia,Industrial Tech,0,2.0,12,1,Growth,High,0,Many,Medium,0
+1997,Ismailia,Industrial Tech,0,2.0,12,1,Growth,High,0,Many,Medium,0
+1997,Ismailia,Industrial Tech,0,2.0,12,1,Growth,High,0,Many,Medium,0
+1997,Ismailia,Tech Valley,0,2.0,12,0,Growth,High,0,Many,Medium,0
+1997,Ismailia,Tech Valley,0,2.0,12,0,Growth,High,0,Many,Medium,0
+1997,Ismailia,Tech Valley,0,2.0,12,0,Growth,High,0,Many,Medium,0
+1997,Ismailia,Tech Valley,0,2.0,12,0,Growth,High,0,Many,Medium,0
+2016,Ismailia,Handicrafts shop,0,1.0,4,0,Market entry,Medium,0,Few,Weak,0
+2016,Ismailia,Handicrafts shop,0,1.0,4,0,Market entry,Medium,0,Few,Weak,0
+2016,Ismailia,Handicrafts shop,0,1.0,4,0,Market entry,Medium,0,Few,Weak,0
+2016,Ismailia,Handicrafts shop,0,1.0,4,0,Market entry,Medium,0,Few,Weak,0
+2020,Ismailia,Restaurant chain,1,2.0,12,0,Growth,High,0,Many,Medium,0
+2020,Ismailia,Restaurant chain,1,2.0,12,0,Growth,High,0,Many,Medium,0
+2020,Ismailia,Restaurant chain,1,2.0,12,0,Growth,High,0,Many,Medium,0
+2020,Ismailia,Restaurant chain,1,2.0,12,0,Growth,High,0,Many,Medium,0
+2018,Ismailia,Tourism services,1,2.0,6,0,Growth,Medium,0,Some,Medium,0
+2018,Ismailia,Tourism services,1,2.0,6,0,Growth,Medium,0,Some,Medium,0
+2018,Ismailia,Tourism services,1,2.0,6,0,Growth,Medium,0,Some,Medium,0
+2018,Ismailia,Tourism services,1,2.0,6,0,Growth,Medium,0,Some,Medium,0
+2019,Ismailia,Agri-business,1,3.0,20,0,Market,Medium,0,Some,Medium,0
+2019,Ismailia,Agri-business,1,3.0,20,0,Market,Medium,0,Some,Medium,0
+2019,Ismailia,Agri-business,1,3.0,20,0,Market,Medium,0,Some,Medium,0
+2019,Ismailia,Agri-business,1,3.0,20,0,Market,Medium,0,Some,Medium,0
+2021,Suez,E-commerce,1,2.0,10,0,Growth,Medium,0,Some,Strong,1
+2021,Suez,E-commerce,1,2.0,10,0,Growth,Medium,0,Some,Strong,1
+2021,Suez,E-commerce,1,2.0,10,0,Growth,Medium,0,Some,Strong,1
+2021,Suez,E-commerce,1,2.0,10,0,Growth,Medium,0,Some,Strong,1
+2019,Suez,Food & Beverage,1,1.0,15,0,Market,High,0,Many,Strong,1
+2019,Suez,Food & Beverage,1,1.0,15,0,Market,High,0,Many,Strong,1
+2019,Suez,Food & Beverage,1,1.0,15,0,Market,High,0,Many,Strong,1
+2019,Suez,Food & Beverage,1,1.0,15,0,Market,High,0,Many,Strong,1
+2018,Suez,Logistics,0,3.0,30,1,Growth,Medium,0,Some,Medium,1
+2018,Suez,Logistics,0,3.0,30,1,Growth,Medium,0,Some,Medium,1
+2018,Suez,Logistics,0,3.0,30,1,Growth,Medium,0,Some,Medium,1
+2018,Suez,Logistics,0,3.0,30,1,Growth,Medium,0,Some,Medium,1
+2020,Suez,Home Services,1,2.0,8,0,Growth,Medium,0,Some,Medium,1
+2020,Suez,Home Services,1,2.0,8,0,Growth,Medium,0,Some,Medium,1
+2020,Suez,Home Services,1,2.0,8,0,Growth,Medium,0,Some,Medium,1
+2020,Suez,Home Services,1,2.0,8,0,Growth,Medium,0,Some,Medium,1
+2017,Suez,Industrial Tech,0,3.0,50,1,Growth,High,0,Many,Strong,1
+2017,Suez,Industrial Tech,0,3.0,50,1,Growth,High,0,Many,Strong,1
+2017,Suez,Industrial Tech,0,3.0,50,1,Growth,High,0,Many,Strong,1
+2017,Suez,Industrial Tech,0,3.0,50,1,Growth,High,0,Many,Strong,1
+2020,Suez,Restaurant,0,1.0,5,0,Market entry,High,0,Many,Medium,0
+2020,Suez,Restaurant,0,1.0,5,0,Market entry,High,0,Many,Medium,0
+2020,Suez,Restaurant,0,1.0,5,0,Market entry,High,0,Many,Medium,0
+2020,Suez,Restaurant,0,1.0,5,0,Market entry,High,0,Many,Medium,0
+2019,Suez,Co-working,1,2.0,6,0,Growth,Medium,0,Some,Medium,0
+2019,Suez,Co-working,1,2.0,6,0,Growth,Medium,0,Some,Medium,0
+2019,Suez,Co-working,1,2.0,6,0,Growth,Medium,0,Some,Medium,0
+2019,Suez,Co-working,1,2.0,6,0,Growth,Medium,0,Some,Medium,0
+2021,Suez,Cleaning Service,1,1.0,4,0,Market entry,Low,0,Few,Low,0
+2021,Suez,Cleaning Service,1,1.0,4,0,Market entry,Low,0,Few,Low,0
+2021,Suez,Cleaning Service,1,1.0,4,0,Market entry,Low,0,Few,Low,0
+2021,Suez,Cleaning Service,1,1.0,4,0,Market entry,Low,0,Few,Low,0
+2018,Suez,Port Analytics,0,3.0,12,0,Growth,High,0,Many,Medium,0
+2018,Suez,Port Analytics,0,3.0,12,0,Growth,High,0,Many,Medium,0
+2018,Suez,Port Analytics,0,3.0,12,0,Growth,High,0,Many,Medium,0
+2018,Suez,Port Analytics,0,3.0,12,0,Growth,High,0,Many,Medium,0
+2019,Suez,Agri-business,0,2.0,10,0,Market,Medium,0,Some,Medium,0
+2019,Suez,Agri-business,0,2.0,10,0,Market,Medium,0,Some,Medium,0
+2019,Suez,Agri-business,0,2.0,10,0,Market,Medium,0,Some,Medium,0
+2019,Suez,Agri-business,0,2.0,10,0,Market,Medium,0,Some,Medium,0
+2020,Damietta,Aquaculture Tech,1,2.0,12,0,Growth,Medium,0,Few,Strong,1
+2020,Damietta,Aquaculture Tech,1,2.0,12,0,Growth,Medium,0,Few,Strong,1
+2020,Damietta,Aquaculture Tech,1,2.0,12,0,Growth,Medium,0,Few,Strong,1
+2020,Damietta,Aquaculture Tech,1,2.0,12,0,Growth,Medium,0,Few,Strong,1
+2019,Damietta,Wood Products Ecom,1,1.0,8,0,Market,Medium,0,Few,Medium,1
+2019,Damietta,Wood Products Ecom,1,1.0,8,0,Market,Medium,0,Few,Medium,1
+2019,Damietta,Wood Products Ecom,1,1.0,8,0,Market,Medium,0,Few,Medium,1
+2019,Damietta,Wood Products Ecom,1,1.0,8,0,Market,Medium,0,Few,Medium,1
+2018,Damietta,Bakery E‑Commerce,1,1.0,6,0,Market,High,0,Some,Strong,1
+2018,Damietta,Bakery E‑Commerce,1,1.0,6,0,Market,High,0,Some,Strong,1
+2018,Damietta,Bakery E‑Commerce,1,1.0,6,0,Market,High,0,Some,Strong,1
+2018,Damietta,Bakery E‑Commerce,1,1.0,6,0,Market,High,0,Some,Strong,1
+2017,Damietta,Furniture Export,0,3.0,35,1,Growth,High,0,Some,Strong,1
+2017,Damietta,Furniture Export,0,3.0,35,1,Growth,High,0,Some,Strong,1
+2017,Damietta,Furniture Export,0,3.0,35,1,Growth,High,0,Some,Strong,1
+2017,Damietta,Furniture Export,0,3.0,35,1,Growth,High,0,Some,Strong,1
+2021,Damietta,Crafts/Gifts,1,1.0,5,0,Market entry,Low,0,Few,Medium,0
+2021,Damietta,Crafts/Gifts,1,1.0,5,0,Market entry,Low,0,Few,Medium,0
+2021,Damietta,Crafts/Gifts,1,1.0,5,0,Market entry,Low,0,Few,Medium,0
+2021,Damietta,Crafts/Gifts,1,1.0,5,0,Market entry,Low,0,Few,Medium,0
+2019,Damietta,Café / Bakery,0,1.0,4,0,Market entry,High,0,Many,Medium,0
+2019,Damietta,Café / Bakery,0,1.0,4,0,Market entry,High,0,Many,Medium,0
+2019,Damietta,Café / Bakery,0,1.0,4,0,Market entry,High,0,Many,Medium,0
+2019,Damietta,Café / Bakery,0,1.0,4,0,Market entry,High,0,Many,Medium,0
+2020,Damietta,Seafood Delivery,1,2.0,10,0,Growth,Medium,0,Some,Medium,0
+2020,Damietta,Seafood Delivery,1,2.0,10,0,Growth,Medium,0,Some,Medium,0
+2020,Damietta,Seafood Delivery,1,2.0,10,0,Growth,Medium,0,Some,Medium,0
+2020,Damietta,Seafood Delivery,1,2.0,10,0,Growth,Medium,0,Some,Medium,0
+2018,Damietta,Woodcraft Shop,0,1.0,3,0,Market entry,Medium,0,Few,Low,0
+2018,Damietta,Woodcraft Shop,0,1.0,3,0,Market entry,Medium,0,Few,Low,0
+2018,Damietta,Woodcraft Shop,0,1.0,3,0,Market entry,Medium,0,Few,Low,0
+2018,Damietta,Woodcraft Shop,0,1.0,3,0,Market entry,Medium,0,Few,Low,0
+2021,Damietta,Agri-Tech,1,2.0,8,0,Growth,Medium,0,Some,Medium,0
+2021,Damietta,Agri-Tech,1,2.0,8,0,Growth,Medium,0,Some,Medium,0
+2021,Damietta,Agri-Tech,1,2.0,8,0,Growth,Medium,0,Some,Medium,0
+2021,Damietta,Agri-Tech,1,2.0,8,0,Growth,Medium,0,Some,Medium,0
+2017,Damietta,Furniture Retail,0,2.0,12,0,Market,High,0,Many,Medium,0
+2017,Damietta,Furniture Retail,0,2.0,12,0,Market,High,0,Many,Medium,0
+2017,Damietta,Furniture Retail,0,2.0,12,0,Market,High,0,Many,Medium,0
+2017,Damietta,Furniture Retail,0,2.0,12,0,Market,High,0,Many,Medium,0
+2020,Assiut,Agri‑Tech,1,2.0,15,0,Growth,Medium,0,Many,Medium,nan
+2020,Assiut,Agri‑Tech,1,2.0,15,0,Growth,Medium,0,Many,Medium,nan
+2020,Assiut,Agri‑Tech,1,2.0,15,0,Growth,Medium,0,Many,Medium,nan
+2020,Assiut,Agri‑Tech,1,2.0,15,0,Growth,Medium,0,Many,Medium,nan
+2019,Sohag,Renewable Energy,0,3.0,20,1,Market,Medium,0,Many,Medium,nan
+2019,Sohag,Renewable Energy,0,3.0,20,1,Market,Medium,0,Many,Medium,nan
+2019,Sohag,Renewable Energy,0,3.0,20,1,Market,Medium,0,Many,Medium,nan
+2019,Sohag,Renewable Energy,0,3.0,20,1,Market,Medium,0,Many,Medium,nan
+2018,Luxor,Arts & Heritage Ecom,1,1.0,8,0,Market,Medium,0,Many,Medium,nan
+2018,Luxor,Arts & Heritage Ecom,1,1.0,8,0,Market,Medium,0,Many,Medium,nan
+2018,Luxor,Arts & Heritage Ecom,1,1.0,8,0,Market,Medium,0,Many,Medium,nan
+2018,Luxor,Arts & Heritage Ecom,1,1.0,8,0,Market,Medium,0,Many,Medium,nan
+2021,Qena,Food Delivery,1,2.0,12,0,Growth,Medium,0,Many,Medium,nan
+2021,Qena,Food Delivery,1,2.0,12,0,Growth,Medium,0,Many,Medium,nan
+2021,Qena,Food Delivery,1,2.0,12,0,Growth,Medium,0,Many,Medium,nan
+2021,Qena,Food Delivery,1,2.0,12,0,Growth,Medium,0,Many,Medium,nan
+2017,Aswan,Tourism Services,0,2.0,25,1,Growth,Medium,0,Many,Medium,nan
+2017,Aswan,Tourism Services,0,2.0,25,1,Growth,Medium,0,Many,Medium,nan
+2017,Aswan,Tourism Services,0,2.0,25,1,Growth,Medium,0,Many,Medium,nan
+2017,Aswan,Tourism Services,0,2.0,25,1,Growth,Medium,0,Many,Medium,nan
+2020,Minya,Textile E‑commerce,1,1.0,10,0,Market,Medium,0,Many,Medium,nan
+2020,Minya,Textile E‑commerce,1,1.0,10,0,Market,Medium,0,Many,Medium,nan
+2020,Minya,Textile E‑commerce,1,1.0,10,0,Market,Medium,0,Many,Medium,nan
+2020,Minya,Textile E‑commerce,1,1.0,10,0,Market,Medium,0,Many,Medium,nan
+2019,Aswan,Stone Export,0,3.0,12,1,Growth,Medium,0,Many,Medium,nan
+2019,Aswan,Stone Export,0,3.0,12,1,Growth,Medium,0,Many,Medium,nan
+2019,Aswan,Stone Export,0,3.0,12,1,Growth,Medium,0,Many,Medium,nan
+2019,Aswan,Stone Export,0,3.0,12,1,Growth,Medium,0,Many,Medium,nan
+2021,Assiut,Health Services,1,2.0,5,0,Growth,Medium,0,Many,Medium,nan
+2021,Assiut,Health Services,1,2.0,5,0,Growth,Medium,0,Many,Medium,nan
+2021,Assiut,Health Services,1,2.0,5,0,Growth,Medium,0,Many,Medium,nan
+2021,Assiut,Health Services,1,2.0,5,0,Growth,Medium,0,Many,Medium,nan
+2018,Sohag,EdTech,1,2.0,10,0,Market,Medium,0,Many,Medium,nan
+2018,Sohag,EdTech,1,2.0,10,0,Market,Medium,0,Many,Medium,nan
+2018,Sohag,EdTech,1,2.0,10,0,Market,Medium,0,Many,Medium,nan
+2018,Sohag,EdTech,1,2.0,10,0,Market,Medium,0,Many,Medium,nan
+2019,Luxor,Crafts/Gifts,1,1.0,7,0,Market,Medium,0,Many,Medium,nan
+2019,Luxor,Crafts/Gifts,1,1.0,7,0,Market,Medium,0,Many,Medium,nan
+2019,Luxor,Crafts/Gifts,1,1.0,7,0,Market,Medium,0,Many,Medium,nan
+2019,Luxor,Crafts/Gifts,1,1.0,7,0,Market,Medium,0,Many,Medium,nan
+2019,Assiut,Café / Bakery,0,1.0,4,0,Market entry,Medium,0,Many,Medium,nan
+2019,Assiut,Café / Bakery,0,1.0,4,0,Market entry,Medium,0,Many,Medium,nan
+2019,Assiut,Café / Bakery,0,1.0,4,0,Market entry,Medium,0,Many,Medium,nan
+2019,Assiut,Café / Bakery,0,1.0,4,0,Market entry,Medium,0,Many,Medium,nan
+2020,Sohag,Transport App,1,2.0,8,0,Growth,Medium,0,Many,Medium,nan
+2020,Sohag,Transport App,1,2.0,8,0,Growth,Medium,0,Many,Medium,nan
+2020,Sohag,Transport App,1,2.0,8,0,Growth,Medium,0,Many,Medium,nan
+2020,Sohag,Transport App,1,2.0,8,0,Growth,Medium,0,Many,Medium,nan
+2018,Luxor,Tourism Photography,0,1.0,5,0,Market entry,Medium,0,Many,Medium,nan
+2018,Luxor,Tourism Photography,0,1.0,5,0,Market entry,Medium,0,Many,Medium,nan
+2018,Luxor,Tourism Photography,0,1.0,5,0,Market entry,Medium,0,Many,Medium,nan
+2018,Luxor,Tourism Photography,0,1.0,5,0,Market entry,Medium,0,Many,Medium,nan
+2021,Qena,Fashion E‑commerce,1,2.0,6,0,Growth,Medium,0,Many,Medium,nan
+2021,Qena,Fashion E‑commerce,1,2.0,6,0,Growth,Medium,0,Many,Medium,nan
+2021,Qena,Fashion E‑commerce,1,2.0,6,0,Growth,Medium,0,Many,Medium,nan
+2021,Qena,Fashion E‑commerce,1,2.0,6,0,Growth,Medium,0,Many,Medium,nan
+2020,Aswan,Mobility,1,3.0,10,0,Growth,Medium,0,Many,Medium,nan
+2020,Aswan,Mobility,1,3.0,10,0,Growth,Medium,0,Many,Medium,nan
+2020,Aswan,Mobility,1,3.0,10,0,Growth,Medium,0,Many,Medium,nan
+2020,Aswan,Mobility,1,3.0,10,0,Growth,Medium,0,Many,Medium,nan
+2019,Minya,Agri‑business,0,2.0,7,0,Market entry,Medium,0,Many,Medium,nan
+2019,Minya,Agri‑business,0,2.0,7,0,Market entry,Medium,0,Many,Medium,nan
+2019,Minya,Agri‑business,0,2.0,7,0,Market entry,Medium,0,Many,Medium,nan
+2019,Minya,Agri‑business,0,2.0,7,0,Market entry,Medium,0,Many,Medium,nan
+2018,Aswan,Home Services,1,2.0,5,0,Growth,Medium,0,Many,Medium,nan
+2018,Aswan,Home Services,1,2.0,5,0,Growth,Medium,0,Many,Medium,nan
+2018,Aswan,Home Services,1,2.0,5,0,Growth,Medium,0,Many,Medium,nan
+2018,Aswan,Home Services,1,2.0,5,0,Growth,Medium,0,Many,Medium,nan
+2020,Assiut,Tutoring Services,1,1.0,3,0,Market entry,Medium,0,Many,Medium,nan
+2020,Assiut,Tutoring Services,1,1.0,3,0,Market entry,Medium,0,Many,Medium,nan
+2020,Assiut,Tutoring Services,1,1.0,3,0,Market entry,Medium,0,Many,Medium,nan
+2020,Assiut,Tutoring Services,1,1.0,3,0,Market entry,Medium,0,Many,Medium,nan
+2017,Sohag,Craft Shop,0,1.0,4,0,Market entry,Medium,0,Many,Medium,nan
+2017,Sohag,Craft Shop,0,1.0,4,0,Market entry,Medium,0,Many,Medium,nan
+2017,Sohag,Craft Shop,0,1.0,4,0,Market entry,Medium,0,Many,Medium,nan
+2017,Sohag,Craft Shop,0,1.0,4,0,Market entry,Medium,0,Many,Medium,nan
+2021,Luxor,Food Truck,0,1.0,3,0,Market entry,Medium,0,Many,Medium,nan
+2021,Luxor,Food Truck,0,1.0,3,0,Market entry,Medium,0,Many,Medium,nan
+2021,Luxor,Food Truck,0,1.0,3,0,Market entry,Medium,0,Many,Medium,nan
+2021,Luxor,Food Truck,0,1.0,3,0,Market entry,Medium,0,Many,Medium,nan
+2017,online,HealthTech,1,2.0,50,1,Market,High,1,Many,Strong,1
+2017,online,HealthTech,1,2.0,50,1,Market,High,1,Many,Strong,1
+2017,online,HealthTech,1,2.0,50,1,Market,High,1,Many,Strong,1
+2017,online,HealthTech,1,2.0,50,1,Market,High,1,Many,Strong,1
+2011,online,Food Delivery,1,3.0,120,1,Market,High,1,Many,Strong,1
+2011,online,Food Delivery,1,3.0,120,1,Market,High,1,Many,Strong,1
+2011,online,Food Delivery,1,3.0,120,1,Market,High,1,Many,Strong,1
+2011,online,Food Delivery,1,3.0,120,1,Market,High,1,Many,Strong,1
+2017,online,EdTech,1,2.0,80,1,Growth,Medium,1,Some,Strong,1
+2017,online,EdTech,1,2.0,80,1,Growth,Medium,1,Some,Strong,1
+2017,online,EdTech,1,2.0,80,1,Growth,Medium,1,Some,Strong,1
+2017,online,EdTech,1,2.0,80,1,Growth,Medium,1,Some,Strong,1
+2014,online,E‑grocery,1,2.0,60,1,Market,Medium,1,Some,Strong,1
+2014,online,E‑grocery,1,2.0,60,1,Market,Medium,1,Some,Strong,1
+2014,online,E‑grocery,1,2.0,60,1,Market,Medium,1,Some,Strong,1
+2014,online,E‑grocery,1,2.0,60,1,Market,Medium,1,Some,Strong,1
+2017,online,FoodTech,1,3.0,150,1,Market,Medium,1,Many,Strong,1
+2017,online,FoodTech,1,3.0,150,1,Market,Medium,1,Many,Strong,1
+2017,online,FoodTech,1,3.0,150,1,Market,Medium,1,Many,Strong,1
+2017,online,FoodTech,1,3.0,150,1,Market,Medium,1,Many,Strong,1
+2020,online,FinTech,1,4.0,40,1,Growth,Medium,1,Some,Medium,1
+2020,online,FinTech,1,4.0,40,1,Growth,Medium,1,Some,Medium,1
+2020,online,FinTech,1,4.0,40,1,Growth,Medium,1,Some,Medium,1
+2020,online,FinTech,1,4.0,40,1,Growth,Medium,1,Some,Medium,1
+2016,online,Gaming/Esports,1,2.0,30,1,Growth,Medium,0,Some,Strong,1
+2016,online,Gaming/Esports,1,2.0,30,1,Growth,Medium,0,Some,Strong,1
+2016,online,Gaming/Esports,1,2.0,30,1,Growth,Medium,0,Some,Strong,1
+2016,online,Gaming/Esports,1,2.0,30,1,Growth,Medium,0,Some,Strong,1
+2016,online,AI/NLP,1,2.0,20,1,Market,Low,0,Few,Medium,1
+2016,online,AI/NLP,1,2.0,20,1,Market,Low,0,Few,Medium,1
+2016,online,AI/NLP,1,2.0,20,1,Market,Low,0,Few,Medium,1
+2016,online,AI/NLP,1,2.0,20,1,Market,Low,0,Few,Medium,1
+2015,online,Home‑cooked Meal,1,3.0,45,1,Market,Medium,0,Some,Strong,1
+2015,online,Home‑cooked Meal,1,3.0,45,1,Market,Medium,0,Some,Strong,1
+2015,online,Home‑cooked Meal,1,3.0,45,1,Market,Medium,0,Some,Strong,1
+2015,online,Home‑cooked Meal,1,3.0,45,1,Market,Medium,0,Some,Strong,1
+2017,online,Carpooling App,1,2.0,15,0,Growth,High,0,Many,Medium,1
+2017,online,Carpooling App,1,2.0,15,0,Growth,High,0,Many,Medium,1
+2017,online,Carpooling App,1,2.0,15,0,Growth,High,0,Many,Medium,1
+2017,online,Carpooling App,1,2.0,15,0,Growth,High,0,Many,Medium,1
+2015,online,Home‑meal Delivery,1,3.0,45,1,Market,Medium,0,Some,Strong,0
+2015,online,Home‑meal Delivery,1,3.0,45,1,Market,Medium,0,Some,Strong,0
+2015,online,Home‑meal Delivery,1,3.0,45,1,Market,Medium,0,Some,Strong,0
+2015,online,Home‑meal Delivery,1,3.0,45,1,Market,Medium,0,Some,Strong,0
+2017,online,Carpooling App,1,2.0,15,0,Growth,High,0,Many,Medium,0
+2017,online,Carpooling App,1,2.0,15,0,Growth,High,0,Many,Medium,0
+2017,online,Carpooling App,1,2.0,15,0,Growth,High,0,Many,Medium,0
+2017,online,Carpooling App,1,2.0,15,0,Growth,High,0,Many,Medium,0
+2011,online,Solar Equipment,1,3.0,12,1,Growth,Medium,0,Some,Medium,0
+2011,online,Solar Equipment,1,3.0,12,1,Growth,Medium,0,Some,Medium,0
+2011,online,Solar Equipment,1,3.0,12,1,Growth,Medium,0,Some,Medium,0
+2011,online,Solar Equipment,1,3.0,12,1,Growth,Medium,0,Some,Medium,0
+2018,online,Logistics Platform,1,2.0,25,0,Growth,High,0,Many,Medium,0
+2018,online,Logistics Platform,1,2.0,25,0,Growth,High,0,Many,Medium,0
+2018,online,Logistics Platform,1,2.0,25,0,Growth,High,0,Many,Medium,0
+2018,online,Logistics Platform,1,2.0,25,0,Growth,High,0,Many,Medium,0
+2018,online,FinTech,1,2.0,30,0,Growth,Medium,0,Some,Medium,0
+2018,online,FinTech,1,2.0,30,0,Growth,Medium,0,Some,Medium,0
+2018,online,FinTech,1,2.0,30,0,Growth,Medium,0,Some,Medium,0
+2018,online,FinTech,1,2.0,30,0,Growth,Medium,0,Some,Medium,0
+2012,online,E‑grocery,1,3.0,50,0,Growth,High,0,Many,Medium,0
+2012,online,E‑grocery,1,3.0,50,0,Growth,High,0,Many,Medium,0
+2012,online,E‑grocery,1,3.0,50,0,Growth,High,0,Many,Medium,0
+2012,online,E‑grocery,1,3.0,50,0,Growth,High,0,Many,Medium,0
+2016,online,Ride‑hailing,1,2.0,15,0,Growth,High,0,Many,Medium,0
+2016,online,Ride‑hailing,1,2.0,15,0,Growth,High,0,Many,Medium,0
+2016,online,Ride‑hailing,1,2.0,15,0,Growth,High,0,Many,Medium,0
+2016,online,Ride‑hailing,1,2.0,15,0,Growth,High,0,Many,Medium,0
+2017,online,Transport Platform,1,2.0,20,0,Growth,High,0,Many,Medium,0
+2017,online,Transport Platform,1,2.0,20,0,Growth,High,0,Many,Medium,0
+2017,online,Transport Platform,1,2.0,20,0,Growth,High,0,Many,Medium,0
+2017,online,Transport Platform,1,2.0,20,0,Growth,High,0,Many,Medium,0
+2019,online,Video Streaming,1,3.0,10,0,Market entry,Medium,0,Few,Medium,0
+2019,online,Video Streaming,1,3.0,10,0,Market entry,Medium,0,Few,Medium,0
+2019,online,Video Streaming,1,3.0,10,0,Market entry,Medium,0,Few,Medium,0
+2019,online,Video Streaming,1,3.0,10,0,Market entry,Medium,0,Few,Medium,0
+2020,online,Grocery Automation,1,2.0,10,0,Market entry,Medium,0,Few,Medium,0
+2020,online,Grocery Automation,1,2.0,10,0,Market entry,Medium,0,Few,Medium,0
+2020,online,Grocery Automation,1,2.0,10,0,Market entry,Medium,0,Few,Medium,0
+2020,online,Grocery Automation,1,2.0,10,0,Market entry,Medium,0,Few,Medium,0
